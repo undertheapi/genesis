@@ -359,7 +359,19 @@
 				"Spermatophytes": {
 					"note": "Seed Producing",
 					"name": "Spermatophytes",
-					"type": "division"
+					"type": "division",
+					"divisions": {
+						"Gymnosperms": {
+							"note": "Non-Flowering Producing",
+							"name": "Gymnosperms",
+							"type": "division"
+						},
+						"Angiosperms": {
+							"note": "Flowering Producing",
+							"name": "Angiosperms",
+							"type": "division"
+						}
+					}
 				}
 			}
 		}
