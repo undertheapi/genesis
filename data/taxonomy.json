@@ -3493,7 +3493,415 @@
 														},
 														"Carduoideae": {
 															"name": "Carduoideae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"subtribes": {
+																"Cardueae": {
+																	"name": "Cardueae",
+																	"type": "tribe",
+																	"subtribes": {
+																		"Cardopatiinae": {
+																			"name": "Cardopatiinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Cardopatium": {
+																					"name": "Cardopatium",
+																					"type": "genus"
+																				},
+																				"Cousiniopsis": {
+																					"name": "Cousiniopsis",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Carduinae": {
+																			"name": "Carduinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Alfredia": {
+																					"name": "Alfredia",
+																					"type": "genus"
+																				},
+																				"Amphoricarpos": {
+																					"name": "Amphoricarpos",
+																					"type": "genus"
+																				},
+																				"Anacantha": {
+																					"name": "Anacantha",
+																					"type": "genus"
+																				},
+																				"Ancathia": {
+																					"name": "Ancathia",
+																					"type": "genus"
+																				},
+																				"Arctium": {
+																					"name": "Arctium",
+																					"type": "genus"
+																				},
+																				"Berardia": {
+																					"name": "Berardia",
+																					"type": "genus"
+																				},
+																				"Carduus": {
+																					"name": "Carduus",
+																					"type": "genus"
+																				},
+																				"Chardinia": {
+																					"name": "Chardinia",
+																					"type": "genus"
+																				},
+																				"Cirsium": {
+																					"name": "Cirsium",
+																					"type": "genus"
+																				},
+																				"Cousinia": {
+																					"name": "Cousinia",
+																					"type": "genus"
+																				},
+																				"Cynara": {
+																					"name": "Cynara",
+																					"type": "genus"
+																				},
+																				"Dipterocome": {
+																					"name": "Dipterocome",
+																					"type": "genus"
+																				},
+																				"Dolomiaea": {
+																					"name": "Dolomiaea",
+																					"type": "genus"
+																				},
+																				"Galactites": {
+																					"name": "Galactites",
+																					"type": "genus"
+																				},
+																				"Hirtellina": {
+																					"name": "Hirtellina",
+																					"type": "genus"
+																				},
+																				"Jurinea": {
+																					"name": "Jurinea",
+																					"type": "genus"
+																				},
+																				"Lamyropappus": {
+																					"name": "Lamyropappus",
+																					"type": "genus"
+																				},
+																				"Lamyropsis": {
+																					"name": "Lamyropsis",
+																					"type": "genus"
+																				},
+																				"Notobasis": {
+																					"name": "Notobasis",
+																					"type": "genus"
+																				},
+																				"Olgaea": {
+																					"name": "Olgaea",
+																					"type": "genus"
+																				},
+																				"Onopordum": {
+																					"name": "Onopordum",
+																					"type": "genus"
+																				},
+																				"Picnomon": {
+																					"name": "Picnomon",
+																					"type": "genus"
+																				},
+																				"Polytaxis": {
+																					"name": "Polytaxis",
+																					"type": "genus"
+																				},
+																				"Ptilostemon": {
+																					"name": "Ptilostemon",
+																					"type": "genus"
+																				},
+																				"Saussurea": {
+																					"name": "Saussurea",
+																					"type": "genus"
+																				},
+																				"Shangwua": {
+																					"name": "Shangwua",
+																					"type": "genus"
+																				},
+																				"Siebera": {
+																					"name": "Siebera",
+																					"type": "genus"
+																				},
+																				"Silybum": {
+																					"name": "Silybum",
+																					"type": "genus"
+																				},
+																				"Staehelina": {
+																					"name": "Staehelina",
+																					"type": "genus"
+																				},
+																				"Synurus": {
+																					"name": "Synurus",
+																					"type": "genus"
+																				},
+																				"Syreitschikovia": {
+																					"name": "Syreitschikovia",
+																					"type": "genus"
+																				},
+																				"Tyrimnus": {
+																					"name": "Tyrimnus",
+																					"type": "genus"
+																				},
+																				"Xanthopappus": {
+																					"name": "Xanthopappus",
+																					"type": "genus"
+																				},
+																				"Xeranthemum": {
+																					"name": "Xeranthemum",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Carlininae": {
+																			"name": "Carlininae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Atractylis": {
+																					"name": "Atractylis",
+																					"type": "genus"
+																				},
+																				"Atractylodes": {
+																					"name": "Atractylodes",
+																					"type": "genus"
+																				},
+																				"Carlina": {
+																					"name": "Carlina",
+																					"type": "genus"
+																				},
+																				"Chamaeleon": {
+																					"name": "Chamaeleon",
+																					"type": "genus"
+																				},
+																				"Thevenotia": {
+																					"name": "Thevenotia",
+																					"type": "genus"
+																				},
+																				"Tugarinovia": {
+																					"name": "Tugarinovia",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Centaureinae": {
+																			"name": "Centaureinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Amberboa": {
+																					"name": "Amberboa",
+																					"type": "genus"
+																				},
+																				"Archiserratula": {
+																					"name": "Archiserratula",
+																					"type": "genus"
+																				},
+																				"Callicephalus": {
+																					"name": "Callicephalus",
+																					"type": "genus"
+																				},
+																				"Carthamus": {
+																					"name": "Carthamus",
+																					"type": "genus"
+																				},
+																				"Centaurea": {
+																					"name": "Centaurea",
+																					"type": "genus"
+																				},
+																				"Centaurothamnus": {
+																					"name": "Centaurothamnus",
+																					"type": "genus"
+																				},
+																				"Cheirolophus": {
+																					"name": "Cheirolophus",
+																					"type": "genus"
+																				},
+																				"Crocodilium": {
+																					"name": "Crocodilium",
+																					"type": "genus"
+																				},
+																				"Crupina": {
+																					"name": "Crupina",
+																					"type": "genus"
+																				},
+																				"Cyanus": {
+																					"name": "Cyanus",
+																					"type": "genus"
+																				},
+																				"Goniocaulon": {
+																					"name": "Goniocaulon",
+																					"type": "genus"
+																				},
+																				"Hemisteptia": {
+																					"name": "Hemisteptia",
+																					"type": "genus"
+																				},
+																				"Karvandarina": {
+																					"name": "Karvandarina",
+																					"type": "genus"
+																				},
+																				"Klasea": {
+																					"name": "Klasea",
+																					"type": "genus"
+																				},
+																				"Mantisalca": {
+																					"name": "Mantisalca",
+																					"type": "genus"
+																				},
+																				"Myopordon": {
+																					"name": "Myopordon",
+																					"type": "genus"
+																				},
+																				"Ochrocephala": {
+																					"name": "Ochrocephala",
+																					"type": "genus"
+																				},
+																				"Oligochaeta": {
+																					"name": "Oligochaeta",
+																					"type": "genus"
+																				},
+																				"Phalacrachena": {
+																					"name": "Phalacrachena",
+																					"type": "genus"
+																				},
+																				"Plagiobasis": {
+																					"name": "Plagiobasis",
+																					"type": "genus"
+																				},
+																				"Plectocephalus": {
+																					"name": "Plectocephalus",
+																					"type": "genus"
+																				},
+																				"Psephellus": {
+																					"name": "Psephellus",
+																					"type": "genus"
+																				},
+																				"Rhaponticoides": {
+																					"name": "Rhaponticoides",
+																					"type": "genus"
+																				},
+																				"Rhaponticum": {
+																					"name": "Rhaponticum",
+																					"type": "genus"
+																				},
+																				"Russowia": {
+																					"name": "Russowia",
+																					"type": "genus"
+																				},
+																				"Schischkinia": {
+																					"name": "Schischkinia",
+																					"type": "genus"
+																				},
+																				"Serratula": {
+																					"name": "Serratula",
+																					"type": "genus"
+																				},
+																				"Stizolophus": {
+																					"name": "Stizolophus",
+																					"type": "genus"
+																				},
+																				"Tricholepis": {
+																					"name": "Tricholepis",
+																					"type": "genus"
+																				},
+																				"Volutaria": {
+																					"name": "Volutaria",
+																					"type": "genus"
+																				},
+																				"Zoegea": {
+																					"name": "Zoegea",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Echinopsinae": {
+																			"name": "Echinopsinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Echinops": {
+																					"name": "Echinops",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
+																},
+																"Dicomeae": {
+																	"name": "Dicomeae",
+																	"type": "tribe",
+																	"subtribes": {
+																		"Dicominae": {
+																			"name": "Dicominae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Cloiselia": {
+																					"name": "Cloiselia",
+																					"type": "genus"
+																				},
+																				"Dicoma": {
+																					"name": "Dicoma",
+																					"type": "genus"
+																				},
+																				"Dicomopsis": {
+																					"name": "Dicomopsis",
+																					"type": "genus"
+																				},
+																				"Gladiopappus": {
+																					"name": "Gladiopappus",
+																					"type": "genus"
+																				},
+																				"Macledium": {
+																					"name": "Macledium",
+																					"type": "genus"
+																				},
+																				"Pasaccardoa": {
+																					"name": "Pasaccardoa",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Pleiotaxinae": {
+																			"name": "Pleiotaxinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Erythrocephalum": {
+																					"name": "Erythrocephalum",
+																					"type": "genus"
+																				},
+																				"Pleiotaxis": {
+																					"name": "Pleiotaxis",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
+																},
+																"Oldenburgieae": {
+																	"name": "Oldenburgieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Oldenburgia": {
+																			"name": "Oldenburgia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Tarchonantheae": {
+																	"name": "Tarchonantheae",
+																	"type": "tribe",
+																	"genera": {
+																		"Brachylaena": {
+																			"name": "Brachylaena",
+																			"type": "genus"
+																		},
+																		"Tarchonanthus": {
+																			"name": "Tarchonanthus",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
 														},
 														"Cichorioideae": {
 															"name": "Cichorioideae",
@@ -3511,7 +3919,19 @@
 														},
 														"Famatinanthoideae": {
 															"name": "Famatinanthoideae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"tribes": {
+																"Famatinantheae": {
+																	"name": "Famatinantheae",
+																	"type": "tribe",
+																	"genera": {
+																		"Famatinanthus": {
+																			"name": "Famatinanthus",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
 														},
 														"Gochnatioideae": {
 															"name": "Gochnatioideae",
@@ -3560,14 +3980,248 @@
 														"Hecastocleidoideae": {
 															"name": "Hecastocleidoideae",
 															"type": "subfamily",
-															"Hecastocleis": {
-																	"name": "Hecastocleis",
-																	"type": "genus"
+															"genera": {
+																"Hecastocleis": {
+																		"name": "Hecastocleis",
+																		"type": "genus"
 																}
+															}
 														},
 														"Mutisioideae": {
 															"name": "Mutisioideae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"tribes": {
+																"Mutisieae": {
+																	"name": "Mutisieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Adenocaulon": {
+																			"name": "Adenocaulon",
+																			"type": "genus"
+																		},
+																		"Amblysperma": {
+																			"name": "Amblysperma",
+																			"type": "genus"
+																		},
+																		"Brachyclados": {
+																			"name": "Brachyclados",
+																			"type": "genus"
+																		},
+																		"Chaetanthera": {
+																			"name": "Chaetanthera",
+																			"type": "genus"
+																		},
+																		"Chaptalia": {
+																			"name": "Chaptalia",
+																			"type": "genus"
+																		},
+																		"Eriachaenium": {
+																			"name": "Eriachaenium",
+																			"type": "genus"
+																		},
+																		"Gerbera": {
+																			"name": "Gerbera",
+																			"type": "genus"
+																		},
+																		"Leibnitzia": {
+																			"name": "Leibnitzia",
+																			"type": "genus"
+																		},
+																		"Lulia": {
+																			"name": "Lulia",
+																			"type": "genus"
+																		},
+																		"Mutisia": {
+																			"name": "Mutisia",
+																			"type": "genus"
+																		},
+																		"Nouelia": {
+																			"name": "Nouelia",
+																			"type": "genus"
+																		},
+																		"Oreoseris": {
+																			"name": "Oreoseris",
+																			"type": "genus"
+																		},
+																		"Oriastrum": {
+																			"name": "Oriastrum",
+																			"type": "genus"
+																		},
+																		"Pachylaena": {
+																			"name": "Pachylaena",
+																			"type": "genus"
+																		},
+																		"Perdicium": {
+																			"name": "Perdicium",
+																			"type": "genus"
+																		},
+																		"Piloselloides": {
+																			"name": "Piloselloides",
+																			"type": "genus"
+																		},
+																		"Pleocarphus": {
+																			"name": "Pleocarphus",
+																			"type": "genus"
+																		},
+																		"Polyachyrus": {
+																			"name": "Polyachyrus",
+																			"type": "genus"
+																		},
+																		"Stenopadus": {
+																			"name": "Stenopadus",
+																			"type": "genus"
+																		},
+																		"Trichocline": {
+																			"name": "Trichocline",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Nassauvieae": {
+																	"name": "Nassauvieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Acourtia": {
+																			"name": "Acourtia",
+																			"type": "genus"
+																		},
+																		"Ameghinoa": {
+																			"name": "Ameghinoa",
+																			"type": "genus"
+																		},
+																		"Berylsimpsonia": {
+																			"name": "Berylsimpsonia",
+																			"type": "genus"
+																		},
+																		"Burkartia": {
+																			"name": "Burkartia",
+																			"type": "genus"
+																		},
+																		"Calorezia": {
+																			"name": "Calorezia",
+																			"type": "genus"
+																		},
+																		"Cephalopappus": {
+																			"name": "Cephalopappus",
+																			"type": "genus"
+																		},
+																		"Criscia": {
+																			"name": "Criscia",
+																			"type": "genus"
+																		},
+																		"Dolichlasium": {
+																			"name": "Dolichlasium",
+																			"type": "genus"
+																		},
+																		"Holocheilus": {
+																			"name": "Holocheilus",
+																			"type": "genus"
+																		},
+																		"Jungia": {
+																			"name": "Jungia",
+																			"type": "genus"
+																		},
+																		"Leucheria": {
+																			"name": "Leucheria",
+																			"type": "genus"
+																		},
+																		"Leunisia": {
+																			"name": "Leunisia",
+																			"type": "genus"
+																		},
+																		"Lophopappus": {
+																			"name": "Lophopappus",
+																			"type": "genus"
+																		},
+																		"Macrachaenium": {
+																			"name": "Macrachaenium",
+																			"type": "genus"
+																		},
+																		"Marticorenia": {
+																			"name": "Marticorenia",
+																			"type": "genus"
+																		},
+																		"Moscharia": {
+																			"name": "Moscharia",
+																			"type": "genus"
+																		},
+																		"Nassauvia": {
+																			"name": "Nassauvia",
+																			"type": "genus"
+																		},
+																		"Oxyphyllum": {
+																			"name": "Oxyphyllum",
+																			"type": "genus"
+																		},
+																		"Pamphalea": {
+																			"name": "Pamphalea",
+																			"type": "genus"
+																		},
+																		"Perezia": {
+																			"name": "Perezia",
+																			"type": "genus"
+																		},
+																		"Pleocarphus": {
+																			"name": "Pleocarphus",
+																			"type": "genus"
+																		},
+																		"Polyachyrus": {
+																			"name": "Polyachyrus",
+																			"type": "genus"
+																		},
+																		"Proustia": {
+																			"name": "Proustia",
+																			"type": "genus"
+																		},
+																		"Spinoliva": {
+																			"name": "Spinoliva",
+																			"type": "genus"
+																		},
+																		"Triptilion": {
+																			"name": "Triptilion",
+																			"type": "genus"
+																		},
+																		"Trixis": {
+																			"name": "Trixis",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Onoserideae": {
+																	"name": "Onoserideae",
+																	"type": "tribe",
+																	"genera": {
+																		"Aphyllocladus": {
+																			"name": "Aphyllocladus",
+																			"type": "genus"
+																		},
+																		"Gypothamnium": {
+																			"name": "Gypothamnium",
+																			"type": "genus"
+																		},
+																		"Lycoseris": {
+																			"name": "Lycoseris",
+																			"type": "genus"
+																		},
+																		"Onoseris": {
+																			"name": "Onoseris",
+																			"type": "genus"
+																		},
+																		"Paquirea": {
+																			"name": "Paquirea",
+																			"type": "genus"
+																		},
+																		"Plazia": {
+																			"name": "Plazia",
+																			"type": "genus"
+																		},
+																		"Urmenetea": {
+																			"name": "Urmenetea",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
 														},
 														"Pertyoideae": {
 															"name": "Pertyoideae",
@@ -3659,35 +4313,345 @@
 														},
 														"Vernonioideae": {
 															"name": "Vernonioideae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"tribe": {
+																"Arctotideae": {
+																	"name": "Arctotideae",
+																	"type": "tribe"
+																	"subtribes": {
+																		"Arctotidinae": {
+																			"name": "Arctotidinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Arctotheca": {
+																					"name": "Arctotheca",
+																					"type": "genus"
+																				},
+																				"Arctotis": {
+																					"name": "Arctotis",
+																					"type": "genus"
+																				},
+																				"Cymbonotus": {
+																					"name": "Cymbonotus",
+																					"type": "genus"
+																				},
+																				"Dymondia": {
+																					"name": "Dymondia",
+																					"type": "genus"
+																				},
+																				"Haplocarpha": {
+																					"name": "Haplocarpha",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Gorteriinae": {
+																			"name": "Gorteriinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Berkheya": {
+																					"name": "Berkheya",
+																					"type": "genus"
+																				},
+																				"Berkheyopsis": {
+																					"name": "Berkheyopsis",
+																					"type": "genus"
+																				},
+																				"Cullumia": {
+																					"name": "Cullumia",
+																					"type": "genus"
+																				},
+																				"Cuspidia": {
+																					"name": "Cuspidia",
+																					"type": "genus"
+																				},
+																				"Didelta": {
+																					"name": "Didelta",
+																					"type": "genus"
+																				},
+																				"Gazania": {
+																					"name": "Gazania",
+																					"type": "genus"
+																				},
+																				"Gorteria": {
+																					"name": "Gorteria",
+																					"type": "genus"
+																				},
+																				"Heterorhachis": {
+																					"name": "Heterorhachis",
+																					"type": "genus"
+																				},
+																				"Hirpicium": {
+																					"name": "Hirpicium",
+																					"type": "genus"
+																				},
+																				"Roessleria": {
+																					"name": "Roessleria",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
+																},
+																"Eremothamneae": {
+																	"name": "Eremothamneae",
+																	"type": "tribe",
+																	"genera": {
+																		"Eremothamnus": {
+																			"name": "Eremothamnus",
+																			"type": "genus"
+																		},
+																		"Hoplophyllum": {
+																			"name": "Hoplophyllum",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Liabeae": {
+																	"name": "Liabeae",
+																	"type": "tribe",
+																	"subtribes": {
+																		"Liabinae": {
+																			"name": "Liabinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Cacosmia": {
+																					"name": "Cacosmia",
+																					"type": "genus"
+																				},
+																				"Dillandia": {
+																					"name": "Dillandia",
+																					"type": "genus"
+																				},
+																				"Ferreyranthus": {
+																					"name": "Ferreyranthus",
+																					"type": "genus"
+																				},
+																				"Liabum": {
+																					"name": "Liabum",
+																					"type": "genus"
+																				},
+																				"Oligactis": {
+																					"name": "Oligactis",
+																					"type": "genus"
+																				},
+																				"Sampera": {
+																					"name": "Sampera",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Munnoziinae": {
+																			"name": "Munnoziinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Chrysactinium": {
+																					"name": "Chrysactinium",
+																					"type": "genus"
+																				},
+																				"Munnozia": {
+																					"name": "Munnozia",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Paranepheliineae": {
+																			"name": "Paranepheliineae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Erato": {
+																					"name": "Erato",
+																					"type": "genus"
+																				},
+																				"Chionopappus": {
+																					"name": "Chionopappus",
+																					"type": "genus"
+																				},
+																				"Microliabum": {
+																					"name": "Microliabum",
+																					"type": "genus"
+																				},
+																				"Paranephelius": {
+																					"name": "Paranephelius",
+																					"type": "genus"
+																				},
+																				"Philoglossa": {
+																					"name": "Philoglossa",
+																					"type": "genus"
+																				},
+																				"Pseudonoseris": {
+																					"name": "Pseudonoseris",
+																					"type": "genus"
+																				},
+																				"Stephanbeckia": {
+																					"name": "Stephanbeckia",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Sinclairiinae": {
+																			"name": "Sinclairiinae",
+																			"type": "subtribe",
+																			"genera": {
+																				"Sinclairia": {
+																					"name": "Sinclairia",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
+																},
+																"Moquinieae": {
+																	"name": "Moquinieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Moquinia": {
+																			"name": "Moquinia",
+																			"type": "genus"
+																		},
+																		"Pseudostifftia": {
+																			"name": "Pseudostifftia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Platycarpheae": {
+																	"name": "Platycarpheae",
+																	"type": "tribe",
+																	"genera": {
+																		"Platycarpha": {
+																			"name": "Platycarpha",
+																			"type": "genus"
+																		},
+																		"Platycarphella": {
+																			"name": "Platycarphella",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Vernonieae": {
+																	"name": "Vernonieae",
+																	"type": "tribe",
+																	"subtribes": {
+																		"Centrapalinae": {
+																			"name": "Centrapalinae",
+																			"type": "subtribe"
+																		},
+																		"Chrestinae": {
+																			"name": "Chrestinae",
+																			"type": "subtribe"
+																		},
+																		"Dipterocypselinae": {
+																			"name": "Dipterocypselinae",
+																			"type": "subtribe"
+																		},
+																		"Distephaninae": {
+																			"name": "Distephaninae",
+																			"type": "subtribe"
+																		},
+																		"Elephantopinae": {
+																			"name": "Elephantopinae",
+																			"type": "subtribe"
+																		},
+																		"Erlangeinae": {
+																			"name": "Erlangeinae",
+																			"type": "subtribe"
+																		},
+																		"Gymnantheminae": {
+																			"name": "Gymnantheminae",
+																			"type": "subtribe"
+																		},
+																		"Hesperomanniinae": {
+																			"name": "Hesperomanniinae",
+																			"type": "subtribe"
+																		},
+																		"Leiboldiinae": {
+																			"name": "Leiboldiinae",
+																			"type": "subtribe"
+																		},
+																		"Lepidaploinae": {
+																			"name": "Lepidaploinae",
+																			"type": "subtribe"
+																		},
+																		"Linziinae": {
+																			"name": "Linziinae",
+																			"type": "subtribe"
+																		},
+																		"Lychnophorinae": {
+																			"name": "Lychnophorinae",
+																			"type": "subtribe"
+																		},
+																		"Mesanthophorinae": {
+																			"name": "Mesanthophorinae",
+																			"type": "subtribe"
+																		},
+																		"Pacourininae": {
+																			"name": "Pacourininae",
+																			"type": "subtribe"
+																		},
+																		"Piptocarphinae": {
+																			"name": "Piptocarphinae",
+																			"type": "subtribe"
+																		},
+																		"Rolandrinae": {
+																			"name": "Rolandrinae",
+																			"type": "subtribe"
+																		},
+																		"Stokesiinae": {
+																			"name": "Stokesiinae",
+																			"type": "subtribe"
+																		},
+																		"Trichospirinae": {
+																			"name": "Trichospirinae",
+																			"type": "subtribe"
+																		},
+																		"Vernoniinae": {
+																			"name": "Vernoniinae",
+																			"type": "subtribe"
+																		}
+																	}
+																}
+															}
 														},
 														"Wunderlichioideae": {
 															"name": "Wunderlichioideae",
 															"type": "subfamily",
-															"genera": {
-																"Chimantaea": {
-																	"name": "Chimantaea",
-																	"type": "genus"
+															"tribes": {
+																"Hyalideae": {
+																	"name": "Hyalideae",
+																	"type": "subtribe",
+																	"genera": {
+																		"Hyalis": {
+																			"name": "Hyalis",
+																			"type": "genus"
+																		},
+																		"Ianthopappus": {
+																			"name": "Ianthopappus",
+																			"type": "genus"
+																		}
+																	}
 																},
-																"Hyalis": {
-																	"name": "Hyalis",
-																	"type": "genus"
-																},
-																"Ianthopappus": {
-																	"name": "Ianthopappus",
-																	"type": "genus"
-																},
-																"Stenopadus": {
-																	"name": "Stenopadus",
-																	"type": "genus"
-																},
-																"Stomatochaeta": {
-																	"name": "Stomatochaeta",
-																	"type": "genus"
-																},
-																"Wunderlichia": {
-																	"name": "Wunderlichia",
-																	"type": "genus"
+																"Wunderlichieae": {
+																	"name": "Wunderlichieae",
+																	"type": "subtribe",
+																	"genera": {
+																		"Chimantaea": {
+																			"name": "Chimantaea",
+																			"type": "genus"
+																		},
+																		"Stenopadus": {
+																			"name": "Stenopadus",
+																			"type": "genus"
+																		},
+																		"Stomatochaeta": {
+																			"name": "Stomatochaeta",
+																			"type": "genus"
+																		},
+																		"Wunderlichia": {
+																			"name": "Wunderlichia",
+																			"type": "genus"
+																		}
+																	}
 																}
 															}
 														}
