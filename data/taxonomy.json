@@ -2293,7 +2293,13 @@
 												},
 												"Bataceae": {
 													"name": "Bataceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Batis": {
+															"name": "Batis",
+															"type": "genus"
+														}
+													}
 												},
 												"Brassicaceae": {
 													"name": "Brassicaceae",
