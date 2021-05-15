@@ -1022,7 +1022,7 @@
 											}
 										}
 									}
-								}
+								},
 								"Monocots": {
 									"name": "monocots",
 									"type": "clade",
