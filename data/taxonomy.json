@@ -194,7 +194,21 @@
 		},
 		"Marchantiophyta": {
 			"name": "Marchantiophyta",
-			"type": "division"
+			"type": "division",
+			"classes": {
+				"Haplomitriopsida": {
+					"name": "Haplomitriopsida",
+					"type": "class"
+				},
+				"Jungermanniopsida": {
+					"name": "Jungermanniopsida",
+					"type": "class"
+				},
+				"Marchantiopsida": {
+					"name": "Marchantiopsida",
+					"type": "class"
+				}
+			}
 		},
 		"Tracheophyta": {
 			"note": "The Vascular Plants",
