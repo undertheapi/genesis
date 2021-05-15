@@ -2395,48 +2395,156 @@
 															"name": "Kalanchoideae",
 															"type": "subfamily",
 															"genera": {
-																{"genus": "Adromischus"},
-																{"genus": "Cotyledon"},
-																{"genus": "Kalanchoe"},
-																{"genus": "Tylecodon"}
+																"Adromischus": {
+																	"name": "Adromischus",
+																	"type": "genus"
+																},
+																"Cotyledon": {
+																	"name": "Cotyledon",
+																	"type": "genus"
+																},
+																"Kalanchoe": {
+																	"name": "Kalanchoe",
+																	"type": "genus"
+																},
+																"Tylecodon": {
+																	"name": "Tylecodon",
+																	"type": "genus"
+																}
 															}
 														},
 														"Sempervivoideae": {
 															"name": "Sempervivoideae",
 															"type": "subfamily",
 															"genera": {
-																{"genus": "Aeonium"},
-																{"genus": "Afrovivella"},
-																{"genus": "Aichryson"},
-																{"genus": "Cremnophila"},
-																{"genus": "Diamorpha"},
-																{"genus": "Dudleya"},
-																{"genus": "Echeveria"},
-																{"genus": "Graptopetalum"},
-																{"genus": "Hylotelephium"},
-																{"genus": "Kungia"},
-																{"genus": "Lenophyllum"},
-																{"genus": "Meterostachys"},
-																{"genus": "Monanthes"},
-																{"genus": "Ohbaea"},
-																{"genus": "Orostachys"},
-																{"genus": "Pachyphytum"},
-																{"genus": "Perrierosedum"},
-																{"genus": "Petrosedum"},
-																{"genus": "Phedimus"},
-																{"genus": "Pistorinia"},
-																{"genus": "Prometheum"},
-																{"genus": "Pseudosedum"},
-																{"genus": "Rhodiola"},
-																{"genus": "Rosularia"},
-																{"genus": "Sedella"},
-																{"genus": "Sedum"},
-																{"genus": "Sempervivum"},
-																{"genus": "Sinocrassula"},
-																{"genus": "Tacitus"},
-																{"genus": "Thompsonella"},
-																{"genus": "Umbilicus"},
-																{"genus": "Villadia"}
+																"Aeonium": {
+																	"name": "Aeonium",
+																	"type": "genus"
+																},
+																"Afrovivella": {
+																	"name": "Afrovivella",
+																	"type": "genus"
+																},
+																"Aichryson": {
+																	"name": "Aichryson",
+																	"type": "genus"
+																},
+																"Cremnophila": {
+																	"name": "Cremnophila",
+																	"type": "genus"
+																},
+																"Diamorpha": {
+																	"name": "Diamorpha",
+																	"type": "genus"
+																},
+																"Dudleya": {
+																	"name": "Dudleya",
+																	"type": "genus"
+																},
+																"Echeveria": {
+																	"name": "Echeveria",
+																	"type": "genus"
+																},
+																"Graptopetalum": {
+																	"name": "Graptopetalum",
+																	"type": "genus"
+																},
+																"Hylotelephium": {
+																	"name": "Hylotelephium",
+																	"type": "genus"
+																},
+																"Kungia": {
+																	"name": "Kungia",
+																	"type": "genus"
+																},
+																"Lenophyllum": {
+																	"name": "Lenophyllum",
+																	"type": "genus"
+																},
+																"Meterostachys": {
+																	"name": "Meterostachys",
+																	"type": "genus"
+																},
+																"Monanthes": {
+																	"name": "Monanthes",
+																	"type": "genus"
+																},
+																"Ohbaea": {
+																	"name": "Ohbaea",
+																	"type": "genus"
+																},
+																"Orostachys": {
+																	"name": "Orostachys",
+																	"type": "genus"
+																},
+																"Pachyphytum": {
+																	"name": "Pachyphytum",
+																	"type": "genus"
+																},
+																"Perrierosedum": {
+																	"name": "Perrierosedum",
+																	"type": "genus"
+																},
+																"Petrosedum": {
+																	"name": "Petrosedum",
+																	"type": "genus"
+																},
+																"Phedimus": {
+																	"name": "Phedimus",
+																	"type": "genus"
+																},
+																"Pistorinia": {
+																	"name": "Pistorinia",
+																	"type": "genus"
+																},
+																"Prometheum": {
+																	"name": "Prometheum",
+																	"type": "genus"
+																},
+																"Pseudosedum": {
+																	"name": "Pseudosedum",
+																	"type": "genus"
+																},
+																"Rhodiola": {
+																	"name": "Rhodiola",
+																	"type": "genus"
+																},
+																"Rosularia": {
+																	"name": "Rosularia",
+																	"type": "genus"
+																},
+																"Sedella": {
+																	"name": "Sedella",
+																	"type": "genus"
+																},
+																"Sedum": {
+																	"name": "Sedum",
+																	"type": "genus"
+																},
+																"Sempervivum": {
+																	"name": "Sempervivum",
+																	"type": "genus"
+																},
+																"Sinocrassula": {
+																	"name": "Sinocrassula",
+																	"type": "genus"
+																},
+																"Tacitus": {
+																	"name": "Tacitus",
+																	"type": "genus"
+																},
+																"Thompsonella": {
+																	"name": "Thompsonella",
+																	"type": "genus"
+																},
+																"Umbilicus": {
+																	"name": "Umbilicus",
+																	"type": "genus"
+																},
+																"Villadia": {
+																	"name": "Villadia",
+																	"type": "genus"
+																}
 															}
 														}
 													}
