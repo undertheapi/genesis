@@ -44,7 +44,7 @@
 						},
 						"Coleochaetales": {
 							"name": "Coleochaetales",
-							"type": "order"
+							"type": "order",
 							"families": {
 								"Coleochaetaceae": {
 									"name": "Coleochaetaceae",
@@ -84,11 +84,11 @@
 					"orders": {
 						"Klebsormidiales": {
 							"name": "Klebsormidiales",
-							"type": "order"
+							"type": "order",
 							"families": {
 								"Klebsormidiaceae": {
 									"name": "Klebsormidiaceae",
-									"type": "family"
+									"type": "family",
 									"genera": {
 										"Chlorokybus": {
 											"name": "Chlorokybus",
@@ -126,7 +126,7 @@
 							"families": {
 								"Closteriaceae": {
 									"name": "Closteriaceae",
-									"type": "family".
+									"type": "family",
 									"genera": {
 										"Closterium": {
 											"name": "Closterium",
