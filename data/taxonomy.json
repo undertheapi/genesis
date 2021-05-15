@@ -88,7 +88,109 @@
 		},
 		"Bryophyta": {
 			"name": "Bryophyta",
-			"type": "division"
+			"type": "division",
+			"classes": {
+				"Andreaeobryopsida": {
+					"name": "Andreaeobryopsida",
+					"type": "class",
+					"orders": {
+						"Andreaeobryales": {
+							"name": "Andreaeobryales",
+							"type": "order"
+						}
+					}
+				},
+				"Andreaeopsida": {
+					"name": "Andreaeopsida",
+					"type": "class",
+					"orders": {
+						"Andreaeales": {
+							"name": "Andreaeales",
+							"type": "order"
+						}
+					}
+				},
+				"Bryopsida": {
+					"name": "Bryopsida",
+					"type": "class",
+					"subclasses": {
+						"Bryidae": {
+							"name": "Bryidae",
+							"type": "subclass"
+						},
+						"Buxbaumiidae": {
+							"name": "Buxbaumiidae",
+							"type": "subclass"
+						},
+						"Dicranidae": {
+							"name": "Dicranidae",
+							"type": "subclass"
+						},
+						"Diphysciidae": {
+							"name": "Diphysciidae",
+							"type": "subclass"
+						},
+						"Funariidae": {
+							"name": "Funariidae",
+							"type": "subclass"
+						},
+						"Timmiidae": {
+							"name": "Timmiidae",
+							"type": "subclass"
+						}
+					}
+				},
+				"Oedipodiopsida": {
+					"name": "Oedipodiopsida",
+					"type": "class",
+					"orders": {
+						"Oedipodiales": {
+							"name": "Oedipodiales",
+							"type": "order"
+						}
+					}
+				},
+				"Polytrichopsida": {
+					"name": "Polytrichopsida",
+					"type": "class",
+					"orders": {
+						"Polytrichales": {
+							"name": "Polytrichales",
+							"type": "order"
+						}
+					}
+				},
+				"Sphagnopsida": {
+					"name": "Sphagnopsida",
+					"type": "class",
+					"orders": {
+						"Sphagnales": {
+							"name": "Sphagnales",
+							"type": "order"
+						}
+					}
+				},
+				"Takakiopsida": {
+					"name": "Takakiopsida",
+					"type": "class",
+					"orders": {
+						"Takakiales": {
+							"name": "Takakiales",
+							"type": "order"
+						}
+					}
+				},
+				"Tetraphidopsida": {
+					"name": "Tetraphidopsida",
+					"type": "class",
+					"orders": {
+						"Tetraphidales": {
+							"name": "Tetraphidales",
+							"type": "order"
+						}
+					}
+				}
+			}
 		},
 		"Marchantiophyta": {
 			"name": "Marchantiophyta",
