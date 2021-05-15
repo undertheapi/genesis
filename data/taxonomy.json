@@ -12,11 +12,55 @@
 					"orders": {
 						"Charales": {
 							"name": "Charales",
-							"type": "order"
+							"type": "order",
+							"families": {
+								"Characeae": {
+									"name": "Characeae",
+									"type": "family",
+									"genera": {
+										"Chara": {
+											"name": "Chara",
+											"type": "genus"
+										},
+										"Lamprothamnium": {
+											"name": "Lamprothamnium",
+											"type": "genus"
+										},
+										"Lychnothamnus": {
+											"name": "Lychnothamnus",
+											"type": "genus"
+										},
+										"Nitella": {
+											"name": "Nitella",
+											"type": "genus"
+										},
+										"Tolypella": {
+											"name": "Tolypella",
+											"type": "genus"
+										}
+									}
+								}
+							}
 						},
 						"Coleochaetales": {
 							"name": "Coleochaetales",
 							"type": "order"
+							"families": {
+								"Coleochaetaceae": {
+									"name": "Coleochaetaceae",
+									"type": "family",
+									"genera": {
+										"Coleochaete": {
+											"name": "Coleochaete",
+											"type": "genus"
+										},
+										"Phyllactidium": {
+											"name": "Phyllactidium",
+											"type": "genus"
+										}
+									}
+								}
+							}
 						}
 					}
 				},
@@ -33,12 +77,6 @@
 				"Coleochaetophyceae": {
 					"name": "Coleochaetophyceae",
 					"type": "class",
-					"orders": {
-						"Coleochaetales": {
-							"name": "Coleochaetales",
-							"type": "order"
-						}
-					}
 				},
 				"Klebsormidiophyceae": {
 					"name": "Klebsormidiophyceae",
@@ -47,6 +85,30 @@
 						"Klebsormidiales": {
 							"name": "Klebsormidiales",
 							"type": "order"
+							"families": {
+								"Klebsormidiaceae": {
+									"name": "Klebsormidiaceae",
+									"type": "family"
+									"genera": {
+										"Chlorokybus": {
+											"name": "Chlorokybus",
+											"type": "genus"
+										},
+										"Entransia": {
+											"name": "Entransia",
+											"type": "genus"
+										},
+										"Hormidiella": {
+											"name": "Hormidiella",
+											"type": "genus"
+										},
+										"Klebsormidium": {
+											"name": "Klebsormidium",
+											"type": "genus"
+										}
+									}
+								}
+							}
 						}
 					}
 				},
@@ -60,11 +122,319 @@
 					"orders": {
 						"Desmidiales": {
 							"name": "Desmidiales",
-							"type": "order"
+							"type": "order",
+							"families": {
+								"Closteriaceae": {
+									"name": "Closteriaceae",
+									"type": "family".
+									"genera": {
+										"Closterium": {
+											"name": "Closterium",
+											"type": "genus"
+										},
+										"Echinella": {
+											"name": "Echinella",
+											"type": "genus"
+										},
+										"Spinoclosterium": {
+											"name": "Spinoclosterium",
+											"type": "genus"
+										}
+									}
+								},
+								"Desmidiaceae": {
+									"name": "Desmidiaceae",
+									"type": "family",
+									"genera": {
+										"Actinotaenium": {
+											"name": "Actinotaenium",
+											"type": "genus"
+										},
+										"Allorgeia": {
+											"name": "Allorgeia",
+											"type": "genus"
+										},
+										"Amscottia": {
+											"name": "Amscottia",
+											"type": "genus"
+										},
+										"Arthrodesmus": {
+											"name": "Arthrodesmus",
+											"type": "genus"
+										},
+										"Bambusina": {
+											"name": "Bambusina",
+											"type": "genus"
+										},
+										"Bourellyodesmus": {
+											"name": "Bourellyodesmus",
+											"type": "genus"
+										},
+										"Cosmarium": {
+											"name": "Cosmarium",
+											"type": "genus"
+										},
+										"Cosmocladium": {
+											"name": "Cosmocladium",
+											"type": "genus"
+										},
+										"Croasdalea": {
+											"name": "Croasdalea",
+											"type": "genus"
+										},
+										"Cruciangulum": {
+											"name": "Cruciangulum",
+											"type": "genus"
+										},
+										"Desmidium": {
+											"name": "Desmidium",
+											"type": "genus"
+										},
+										"Docidium": {
+											"name": "Docidium",
+											"type": "genus"
+										},
+										"Euastrum": {
+											"name": "Euastrum",
+											"type": "genus"
+										},
+										"Groenbladia": {
+											"name": "Groenbladia",
+											"type": "genus"
+										},
+										"Haplotaenium": {
+											"name": "Haplotaenium",
+											"type": "genus"
+										},
+										"Heimansia": {
+											"name": "Heimansia",
+											"type": "genus"
+										},
+										"Hyalotheca": {
+											"name": "Hyalotheca",
+											"type": "genus"
+										},
+										"Ichthyocercus": {
+											"name": "Ichthyocercus",
+											"type": "genus"
+										},
+										"Ichthyodontum": {
+											"name": "Ichthyodontum",
+											"type": "genus"
+										},
+										"Micrasterias": {
+											"name": "Micrasterias",
+											"type": "genus"
+										},
+										"Onychonema": {
+											"name": "Onychonema",
+											"type": "genus"
+										},
+										"Oocardium": {
+											"name": "Oocardium",
+											"type": "genus"
+										},
+										"Phymatodocis": {
+											"name": "Phymatodocis",
+											"type": "genus"
+										},
+										"Pleurotaeniopsis": {
+											"name": "Pleurotaeniopsis",
+											"type": "genus"
+										},
+										"Pleurotaenium": {
+											"name": "Pleurotaenium",
+											"type": "genus"
+										},
+										"Prescottiella": {
+											"name": "Prescottiella",
+											"type": "genus"
+										},
+										"Sphaerozosma": {
+											"name": "Sphaerozosma",
+											"type": "genus"
+										},
+										"Spinocosmarium": {
+											"name": "Spinocosmarium",
+											"type": "genus"
+										},
+										"Spondylosium": {
+											"name": "Spondylosium",
+											"type": "genus"
+										},
+										"Staurastrum": {
+											"name": "Staurastrum",
+											"type": "genus"
+										},
+										"Staurodesmus": {
+											"name": "Staurodesmus",
+											"type": "genus"
+										},
+										"Streptonema": {
+											"name": "Streptonema",
+											"type": "genus"
+										},
+										"Teilingia": {
+											"name": "Teilingia",
+											"type": "genus"
+										},
+										"Tetmemorus": {
+											"name": "Tetmemorus",
+											"type": "genus"
+										},
+										"Triploceras": {
+											"name": "Triploceras",
+											"type": "genus"
+										},
+										"Xanthidium": {
+											"name": "Xanthidium",
+											"type": "genus"
+										}
+									}
+								},
+								"Gonatozygaceae": {
+									"name": "Gonatozygaceae",
+									"type": "family",
+									"genera": {
+										"Genicularia": {
+											"name": "Genicularia",
+											"type": "genus"
+										},
+										"Gonatozygon": {
+											"name": "Gonatozygon",
+											"type": "genus"
+										},
+										"Leptocystinema": {
+											"name": "Leptocystinema",
+											"type": "genus"
+										}
+									}
+								},
+								"Peniaceae": {
+									"name": "Peniaceae",
+									"type": "family",
+									"genera": {
+										"Penium": {
+											"name": "Penium",
+											"type": "genus"
+										}
+									}
+								}
+							}
 						},
 						"Zygnematales": {
 							"name": "Zygnematales",
-							"type": "order"
+							"type": "order",
+							"families": {
+								"Mesotaeniaceae": {
+									"name": "Mesotaeniaceae",
+									"type": "family",
+									"genera": {
+										"Ancylonema": {
+											"name": "Ancylonema",
+											"type": "genus"
+										},
+										"Cylindrocystis": {
+											"name": "Cylindrocystis",
+											"type": "genus"
+										},
+										"Geniculus": {
+											"name": "Geniculus",
+											"type": "genus"
+										},
+										"Mesotaenium": {
+											"name": "Mesotaenium",
+											"type": "genus"
+										},
+										"Netrium": {
+											"name": "Netrium",
+											"type": "genus"
+										},
+										"Nucleotaenium": {
+											"name": "Nucleotaenium",
+											"type": "genus"
+										},
+										"Planotaenium": {
+											"name": "Planotaenium",
+											"type": "genus"
+										},
+										"Roya": {
+											"name": "Roya",
+											"type": "genus"
+										},
+										"Spirotaenia": {
+											"name": "Spirotaenia",
+											"type": "genus"
+										},
+										"Tortitaenia": {
+											"name": "Tortitaenia",
+											"type": "genus"
+										}
+									}
+								},
+								"Zygnemataceae": {
+									"name": "Zygnemataceae",
+									"type": "family",
+									"genera": {
+										"Debarya": {
+											"name": "Debarya",
+											"type": "genus"
+										},
+										"Hallasia": {
+											"name": "Hallasia",
+											"type": "genus"
+										},
+										"Mougeotia": {
+											"name": "Mougeotia",
+											"type": "genus"
+										},
+										"Mougeotiopsis": {
+											"name": "Mougeotiopsis",
+											"type": "genus"
+										},
+										"Sirocladium": {
+											"name": "Sirocladium",
+											"type": "genus"
+										},
+										"Sirogonium": {
+											"name": "Sirogonium",
+											"type": "genus"
+										},
+										"Spirogyra": {
+											"name": "Spirogyra",
+											"type": "genus"
+										},
+										"Staurocarpus": {
+											"name": "Staurocarpus",
+											"type": "genus"
+										},
+										"Temnogametum": {
+											"name": "Temnogametum",
+											"type": "genus"
+										},
+										"Trigonum": {
+											"name": "Trigonum",
+											"type": "genus"
+										},
+										"Tyndaridea": {
+											"name": "Tyndaridea",
+											"type": "genus"
+										},
+										"Zygnema": {
+											"name": "Zygnema",
+											"type": "genus"
+										},
+										"Zygnemopsis": {
+											"name": "Zygnemopsis",
+											"type": "genus"
+										},
+										"Zygogonium": {
+											"name": "Zygogonium",
+											"type": "genus"
+										}
+									}
+								}
+							}
 						}
 					}
 				}
