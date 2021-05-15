@@ -4,7 +4,71 @@
 	"divisions": {
 		"Charophyta": {
 			"name": "Charophyta",
-			"type": "division"
+			"type": "division",
+			"classes": {
+				"Charophyceae": {
+					"name": "Charophyceae",
+					"type": "class",
+					"orders": {
+						"Charales": {
+							"name": "Charales",
+							"type": "order"
+						},
+						"Coleochaetales": {
+							"name": "Coleochaetales",
+							"type": "order"
+						}
+					}
+				},
+				"Chlorokybophyceae": {
+					"name": "Chlorokybophyceae",
+					"type": "class",
+					"orders": {
+						"Chlorokybales": {
+							"name": "Chlorokybales",
+							"type": "order"
+						}
+					}
+				},
+				"Coleochaetophyceae": {
+					"name": "Coleochaetophyceae",
+					"type": "class",
+					"orders": {
+						"Coleochaetales": {
+							"name": "Coleochaetales",
+							"type": "order"
+						}
+					}
+				},
+				"Klebsormidiophyceae": {
+					"name": "Klebsormidiophyceae",
+					"type": "class",
+					"orders": {
+						"Klebsormidiales": {
+							"name": "Klebsormidiales",
+							"type": order"
+						}
+					}
+				},
+				"Mesostigmatophyceae": {
+					"name": "Mesostigmatophyceae",
+					"type": "class"
+				},
+				"Zygnematophyceae": {
+					"name": "Zygnematophyceae",
+					"type": "class",
+					"orders": {
+						"Desmidiales": {
+							"name": "Desmidiales",
+							"type": "order"
+						},
+						"Zygnematales": {
+							"name": "Zygnematales",
+							"type": "order"
+						}
+					}
+				}
+			}
 		},
 		"Chlorophyta": {
 			"name": "Chlorophyta",
