@@ -46,7 +46,7 @@
 					"orders": {
 						"Klebsormidiales": {
 							"name": "Klebsormidiales",
-							"type": order"
+							"type": "order"
 						}
 					}
 				},
