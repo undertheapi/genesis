@@ -1,0 +1,367 @@
+{
+	"name": "Plantae",
+	"type": "regnum",
+	"divisions": {
+		"Charophyta": {
+			"name": "Charophyta",
+			"type": "division"
+		},
+		"Chlorophyta": {
+			"name": "Chlorophyta",
+			"type": "division"
+		},
+		"Glaucophyta": {
+			"name": "Glaucophyta",
+			"type": "division"
+		},
+		"Rhodophyta": {
+			"name": "Rhodophyta",
+			"type": "division"
+		},
+		"Anthocerotophyta": {
+			"name": "Anthocerotophyta",
+			"type": "division"
+		},
+		"Bryophyta": {
+			"name": "Bryophyta",
+			"type": "division"
+		},
+		"Marchantiophyta": {
+			"name": "Marchantiophyta",
+			"type": "division"
+		},
+		"Tracheophyta": {
+			"note": "The Vascular Plants",
+			"name": "Tracheophyta",
+			"type": "division",
+			"divisions": {
+				"Pteridophytes": {
+					"note": "Spore Producing",
+					"name": "Pteridophytes",
+					"type": "division",
+					"classes": {
+						"Equisetopsida": {
+							"name": "Equisetopsida",
+							"type": "class",
+							"orders": {
+								"Equisetales": {
+									"name": "Equisetales",
+									"type": "order",
+									"families": {
+										"Equisetaceae": {
+											"name": "Equisetaceae",
+											"type": "family",
+											"genera": {
+												"Equisetum": {
+													"name": "Equisetum",
+													"type": "genus"
+												}
+											}
+										}
+									}
+								}
+							}
+						},
+						"Marattiopsida": {
+							"name": "Marattiopsida",
+							"type": "class",
+							"orders": {
+								"Marattiales": {
+									"name": "Marattiales",
+									"type": "order",
+									"families": {
+										"Marattiaceae": {
+											"name": "Marattiaceae",
+											"type": "family",
+											"genera": {
+												"Angiopteris": {
+													"name": "Angiopteris",
+													"type": "genus"
+												},
+												"Christensenia": {
+													"name": "Christensenia",
+													"type": "genus"
+												},
+												"Danaea": {
+													"name": "Danaea",
+													"type": "genus"
+												},
+												"Eupodium": {
+													"name": "Eupodium",
+													"type": "genus"
+												},
+												"Marattia": {
+													"name": "Marattia",
+													"type": "genus"
+												},
+												"Ptisana": {
+													"name": "Ptisana",
+													"type": "genus"
+												}
+											}
+										}
+									}
+								}
+							}
+						},
+						"Polypodiopsida": {
+							"name": "Polypodiopsida",
+							"type": "class",
+							"orders": {
+								"Cyatheales": {
+									"name": "Cyatheales",
+									"type": "order",
+									"families": {
+										"Cibotiaceae": {
+											"name": "Cibotiaceae",
+											"type": "family"
+										},
+										"Culcitaceae": {
+											"name": "Culcitaceae",
+											"type": "family"
+										},
+										"Cyatheaceae": {
+											"name": "Cyatheaceae",
+											"type": "family"
+										},
+										"Dicksoniaceae": {
+											"name": "Dicksoniaceae",
+											"type": "family"
+										},
+										"Loxsomataceae": {
+											"name": "Loxsomataceae",
+											"type": "family"
+										},
+										"Metaxyaceae": {
+											"name": "Metaxyaceae",
+											"type": "family"
+										},
+										"Plagiogyriaceae": {
+											"name": "Plagiogyriaceae",
+											"type": "family"
+										},
+										"Thyrsopteridaceae": {
+											"name": "Thyrsopteridaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Gleicheniales": {
+									"name": "Gleicheniales",
+									"type": "order",
+									"families": {
+										"Dipteridaceae": {
+											"name": "Dipteridaceae",
+											"type": "family"
+										},
+										"Gleicheniaceae": {
+											"name": "Gleicheniaceae",
+											"type": "family"
+										},
+										"Matoniaceae": {
+											"name": "Matoniaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Hymenophyllales": {
+									"name": "Hymenophyllales",
+									"type": "order",
+									"families": {
+										"Hymenophyllaceae": {
+											"name": "Hymenophyllaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Osmundales": {
+									"name": "Osmundales",
+									"type": "order",
+									"families": {
+										"Osmundaceae": {
+											"name": "Osmundaceae",
+										}
+									}
+								},
+								"Polypodiales": {
+									"name": "Polypodiales",
+									"type": "order",
+									"families": {
+										"Arthropteridaceae": {
+											"name": "Arthropteridaceae",
+											"type": "family"
+										},
+										"Aspleniaceae": {
+											"name": "Aspleniaceae",
+											"type": "family"
+										},
+										"Athyriaceae": {
+											"name": "Athyriaceae",
+											"type": "family"
+										},
+										"Blechnaceae": {
+											"name": "Blechnaceae",
+											"type": "family"
+										},
+										"Cystodiaceae": {
+											"name": "Cystodiaceae",
+											"type": "family"
+										},
+										"Cystopteridaceae": {
+											"name": "Cystopteridaceae",
+											"type": "family"
+										},
+										"Davalliaceae": {
+											"name": "Davalliaceae",
+											"type": "family"
+										},
+										"Dennstaedtiaceae": {
+											"name": "Dennstaedtiaceae",
+											"type": "family"
+										},
+										"Didymochlaenaceae": {
+											"name": "Didymochlaenaceae",
+											"type": "family"
+										},
+										"Diplaziopsidaceae": {
+											"name": "Diplaziopsidaceae",
+											"type": "family"
+										},
+										"Dryopteridaceae": {
+											"name": "Dryopteridaceae",
+											"type": "family"
+										},
+										"Hemidictyaceae": {
+											"name": "Hemidictyaceae",
+											"type": "family"
+										},
+										"Hypodematiaceae": {
+											"name": "Hypodematiaceae",
+											"type": "family"
+										},
+										"Lindsaeaceae": {
+											"name": "Lindsaeaceae",
+											"type": "family"
+										},
+										"Lomariopsidaceae": {
+											"name": "Lomariopsidaceae",
+											"type": "family"
+										},
+										"Lonchitidaceae": {
+											"name": "Lonchitidaceae",
+											"type": "family"
+										},
+										"Nephrolepidaceae": {
+											"name": "Nephrolepidaceae",
+											"type": "family"
+										},
+										"Oleandraceae": {
+											"name": "Oleandraceae",
+											"type": "family"
+										},
+										"Onocleaceae": {
+											"name": "Onocleaceae",
+											"type": "family"
+										},
+										"Polypodiaceae": {
+											"name": "Polypodiaceae",
+											"type": "family"
+										},
+										"Pteridaceae": {
+											"name": "Pteridaceae",
+											"type": "family"
+										},
+										"Rhachidosoraceae": {
+											"name": "Rhachidosoraceae",
+											"type": "family"
+										},
+										"Saccolomataceae": {
+											"name": "Saccolomataceae",
+											"type": "family"
+										},
+										"Tectariaceae": {
+											"name": "Tectariaceae",
+											"type": "family"
+										},
+										"Thelypteridaceae": {
+											"name": "Thelypteridaceae",
+											"type": "family"
+										},
+										"Woodsiaceae": {
+											"name": "Woodsiaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Salviniales": {
+									"name": "Salviniales",
+									"type": "order",
+									"families": {
+										"Marsileaceae": {
+											"name": "Marsileaceae",
+											"type": "family"
+										},
+										"Salviniaceae": {
+											"name": "Salviniaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Schizaeales": {
+									"name": "Schizaeales",
+									"type": "order",
+									"families": {
+										"Anemiaceae": {
+											"name": "Anemiaceae",
+											"type": "family"
+										},
+										"Lygodiaceae": {
+											"name": "Lygodiaceae",
+											"type": "family"
+										},
+										"Schizaeaceae": {
+											"name": "Schizaeaceae",
+											"type": "family"
+										}
+									}
+								}
+							}
+						},
+						"Psilotopsida": {
+							"name": "Psilotopsida",
+							"type": "class",
+							"orders": {
+								"Ophioglossales": {
+									"name": "Ophioglossales",
+									"type": "order",
+									"families": {
+										"Ophioglossaceae": {
+											"name": "Ophioglossaceae",
+											"type": "family"
+										}
+									}
+								},
+								"Psilotales": {
+									"name": "Psilotales",
+									"type": "order",
+									"families": {
+										"Psilotaceae": {
+											"name": "Psilotaceae",
+											"type": "family"
+										}
+									}
+								}
+							}
+						}
+					}
+					
+				},
+				"Spermatophytes": {
+					"note": "Seed Producing",
+					"name": "Spermatophytes",
+					"type": "division"
+				}
+			}
+		}
+	}
+}
