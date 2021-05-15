@@ -551,6 +551,478 @@
 							"name": "Angiosperms",
 							"type": "division",
 							"clades": {
+								"Magnoliids": {
+									"name": "Magnoliids",
+									"type": "clade",
+									"orders": {
+										"Canellales": {
+											"name": "Canellales",
+											"type": "order",
+											"families": {
+												"Canellaceae": {
+													"name": "Canellaceae",
+													"type": "family",
+													"genera": {
+														"Canella": {
+															"name": "Canella",
+															"type": "genus"
+														},
+														"Cinnamodendron": {
+															"name": "Cinnamodendron",
+															"type": "genus"
+														},
+														"Cinnamosma": {
+															"name": "Cinnamosma",
+															"type": "genus"
+														},
+														"Pleodendron": {
+															"name": "Pleodendron",
+															"type": "genus"
+														},
+														"Warburgia": {
+															"name": "Warburgia",
+															"type": "genus"
+														}
+													}
+												},
+												"Winteraceae": {
+													"name": "Winteraceae",
+													"type": "family",
+													"genera": {
+														"Drimys": {
+															"name": "Drimys",
+															"type": "genus"
+														},
+														"Pseudowintera": {
+															"name": "Pseudowintera",
+															"type": "genus"
+														},
+														"Takhtajania": {
+															"name": "Takhtajania",
+															"type": "genus"
+														},
+														"Tasmannia": {
+															"name": "Tasmannia",
+															"type": "genus"
+														},
+														"Zygogynum": {
+															"name": "Zygogynum",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
+										"Laurales": {
+											"name": "Laurales",
+											"type": "order",
+											"families": {
+												"Atherospermataceae": {
+													"name": "Atherospermataceae",
+													"type": "family",
+													"genera": {
+														"Atherosperma": {
+															"name": "Atherosperma",
+															"type": "genus"
+														},
+														"Daphnandra": {
+															"name": "Daphnandra",
+															"type": "genus"
+														},
+														"Doryphora": {
+															"name": "Doryphora",
+															"type": "genus"
+														},
+														"Dryadodaphne": {
+															"name": "Dryadodaphne",
+															"type": "genus"
+														},
+														"Laurelia": {
+															"name": "Laurelia",
+															"type": "genus"
+														},
+														"Laureliopsis": {
+															"name": "Laureliopsis",
+															"type": "genus"
+														},
+														"Nemuaron": {
+															"name": "Nemuaron",
+															"type": "genus"
+														}
+													}
+												},
+												"Calycanthaceae": {
+													"name": "Calycanthaceae",
+													"type": "family",
+													"genera": {
+														"Calycanthus": {
+															"name": "Calycanthus",
+															"type": "genus"
+														},
+														"Chimonanthus": {
+															"name": "Chimonanthus",
+															"type": "genus"
+														},
+														"Idiospermum": {
+															"name": "Idiospermum",
+															"type": "genus"
+														}
+													}
+												},
+												"Gomortegaceae": {
+													"name": "Gomortegaceae",
+													"type": "family",
+													"genera": {
+														"Gomortega": {
+															"name": "Gomortega",
+															"type": "genus"
+														}
+													}
+												},
+												"Hernandiaceae": {
+													"name": "Hernandiaceae",
+													"type": "family",
+													"genera": {
+														"Gyrocarpus": {
+															"name": "Gyrocarpus",
+															"type": "genus"
+														},
+														"Hernandia": {
+															"name": "Hernandia",
+															"type": "genus"
+														},
+														"Illigera": {
+															"name": "Illigera",
+															"type": "genus"
+														},
+														"Sparattanthelium": {
+															"name": "Sparattanthelium",
+															"type": "genus"
+														}	
+													}
+												},
+												"Lauraceae": {
+													"name": "Lauraceae",
+													"type": "family",
+													"genera": {
+														"Actinodaphne": {
+															"name": "Actinodaphne",
+															"type": "genus"
+														},
+														"Aiouea": {
+															"name": "Aiouea",
+															"type": "genus"
+														},
+														"Alseodaphne": {
+															"name": "Alseodaphne",
+															"type": "genus"
+														},
+														"Aniba": {
+															"name": "Aniba",
+															"type": "genus"
+														},
+														"Apollonias": {
+															"name": "Apollonias",
+															"type": "genus"
+														},
+														"Aspidostemon": {
+															"name": "Aspidostemon",
+															"type": "genus"
+														},
+														"Beilschmiedia": {
+															"name": "Beilschmiedia",
+															"type": "genus"
+														},
+														"Caryodaphnopsis": {
+															"name": "Caryodaphnopsis",
+															"type": "genus"
+														},
+														"Cassytha": {
+															"name": "Cassytha",
+															"type": "genus"
+														},
+														"Chlorocardium": {
+															"name": "Chlorocardium",
+															"type": "genus"
+														},
+														"Cinnadenia": {
+															"name": "Cinnadenia",
+															"type": "genus"
+														},
+														"Cinnamomum": {
+															"name": "Cinnamomum",
+															"type": "genus"
+														},
+														"Cryptocarya": {
+															"name": "Cryptocarya",
+															"type": "genus"
+														},
+														"Dahlgrenodendron": {
+															"name": "Dahlgrenodendron",
+															"type": "genus"
+														},
+														"Dehaasia": {
+															"name": "Dehaasia",
+															"type": "genus"
+														},
+														"Dicypellium": {
+															"name": "Dicypellium",
+															"type": "genus"
+														},
+														"Dodecadenia": {
+															"name": "Dodecadenia",
+															"type": "genus"
+														},
+														"Endiandra": {
+															"name": "Endiandra",
+															"type": "genus"
+														},
+														"Endlicheria": {
+															"name": "Endlicheria",
+															"type": "genus"
+														},
+														"Eusideroxylon": {
+															"name": "Eusideroxylon",
+															"type": "genus"
+														},
+														"Gamanthera": {
+															"name": "Gamanthera",
+															"type": "genus"
+														},
+														"Hypodaphnis": {
+															"name": "Hypodaphnis",
+															"type": "genus"
+														},
+														"Iteadaphne": {
+															"name": "Iteadaphne",
+															"type": "genus"
+														},
+														"Kubitzkia": {
+															"name": "Kubitzkia",
+															"type": "genus"
+														},
+														"Laurus": {
+															"name": "Laurus",
+															"type": "genus"
+														},
+														"Licaria": {
+															"name": "Licaria",
+															"type": "genus"
+														},
+														"Lindera": {
+															"name": "Lindera",
+															"type": "genus"
+														},
+														"Litsea": {
+															"name": "Litsea",
+															"type": "genus"
+														},
+														"Machilus": {
+															"name": "Machilus",
+															"type": "genus"
+														},
+														"Mezilaurus": {
+															"name": "Mezilaurus",
+															"type": "genus"
+														},
+														"Mocinnodaphne": {
+															"name": "Mocinnodaphne",
+															"type": "genus"
+														},
+														"Mutisiopersea": {
+															"name": "Mutisiopersea",
+															"type": "genus"
+														},
+														"Nectandra": {
+															"name": "Nectandra",
+															"type": "genus"
+														},
+														"Neocinnamomum": {
+															"name": "Neocinnamomum",
+															"type": "genus"
+														},
+														"Neolitsea": {
+															"name": "Neolitsea",
+															"type": "genus"
+														},
+														"Nothaphoebe": {
+															"name": "Nothaphoebe",
+															"type": "genus"
+														},
+														"Ocotea": {
+															"name": "Ocotea",
+															"type": "genus"
+														},
+														"Paraia": {
+															"name": "Paraia",
+															"type": "genus"
+														},
+														"Parasassafras": {
+															"name": "Parasassafras",
+															"type": "genus"
+														},
+														"Persea": {
+															"name": "Persea",
+															"type": "genus"
+														},
+														"Phoebe": {
+															"name": "Phoebe",
+															"type": "genus"
+														},
+														"Phyllostemonodaphne": {
+															"name": "Phyllostemonodaphne",
+															"type": "genus"
+														},
+														"Pleurothyrium": {
+															"name": "Pleurothyrium",
+															"type": "genus"
+														},
+														"Potameia": {
+															"name": "Potameia",
+															"type": "genus"
+														},
+														"Potoxylon": {
+															"name": "Potoxylon",
+															"type": "genus"
+														},
+														"Povedadaphne": {
+															"name": "Povedadaphne",
+															"type": "genus"
+														},
+														"Ravensara": {
+															"name": "Ravensara",
+															"type": "genus"
+														},
+														"Rhodostemonodaphne": {
+															"name": "Rhodostemonodaphne",
+															"type": "genus"
+														},
+														"Sassafras": {
+															"name": "Sassafras",
+															"type": "genus"
+														},
+														"Sextonia": {
+															"name": "Sextonia",
+															"type": "genus"
+														},
+														"Sinopora": {
+															"name": "Sinopora",
+															"type": "genus"
+														},
+														"Sinosassafras": {
+															"name": "Sinosassafras",
+															"type": "genus"
+														},
+														"Syndiclis": {
+															"name": "Syndiclis",
+															"type": "genus"
+														},
+														"Triadodaphne": {
+															"name": "Triadodaphne",
+															"type": "genus"
+														},
+														"Umbellularia": {
+															"name": "Umbellularia",
+															"type": "genus"
+														},
+														"Urbanodendron": {
+															"name": "Urbanodendron",
+															"type": "genus"
+														},
+														"Williamodendron": {
+															"name": "Williamodendron",
+															"type": "genus"
+														},
+														"Yasunia": {
+															"name": "Yasunia",
+															"type": "genus"
+														}
+													}
+												},
+												"Monimiaceae": {
+													"name": "Monimiaceae",
+													"type": "family",
+													"subfamilies": {
+														"Hortonioideae": {
+															"name": "Hortonioideae",
+															"type": "subfamily"
+														},
+														"Mollinedioideae": {
+															"name": "Mollinedioideae",
+															"type": "subfamily"
+														},
+														"Monimioideae": {
+															"name": "Monimioideae",
+															"type": "subfamily"
+														}
+													}
+												},
+												"Siparunaceae": {
+													"name": "Siparunaceae",
+													"type": "family",
+													"genera": {
+														"Glossocalyx": {
+															"name": "Glossocalyx",
+															"type": "genus"
+														},
+														"Siparuna": {
+															"name": "Siparuna",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
+										"Magnoliales": {
+											"name": "Magnoliales",
+											"type": "order",
+											"families": {
+												"Annonaceae": {
+													"name": "Annonaceae",
+													"type": "family"
+												},
+												"Degeneriaceae": {
+													"name": "Degeneriaceae",
+													"type": "family"
+												},
+												"Eupomatiaceae": {
+													"name": "Eupomatiaceae",
+													"type": "family"
+												},
+												"Himantandraceae": {
+													"name": "Himantandraceae",
+													"type": "family"
+												},
+												"Magnoliaceae": {
+													"name": "Magnoliaceae",
+													"type": "family"
+												},
+												"Myristicaceae": {
+													"name": "Myristicaceae",
+													"type": "family"
+												}
+											}
+										},
+										"Piperales": {
+											"name": "Piperales",
+											"type": "order",
+											"families": {
+												"Aristolochiaceae": {
+													"name": "Aristolochiaceae",
+													"type": "family"
+												},
+												"Piperaceae": {
+													"name": "Piperaceae",
+													"type": "family"
+												},
+												"Saururaceae": {
+													"name": "Saururaceae",
+													"type": "family"
+												}
+											}
+										}
+									}
+								}
 								"Monocots": {
 									"name": "monocots",
 									"type": "clade",
