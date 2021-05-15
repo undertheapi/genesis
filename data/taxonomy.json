@@ -2303,7 +2303,213 @@
 												},
 												"Brassicaceae": {
 													"name": "Brassicaceae",
-													"type": "family"
+													"type": "family",
+													"tribes": {
+														"Aethionemeae": {
+															"name": "Aethionemeae",
+															"type": "tribe"
+														},
+														"Alysseae": {
+															"name": "Alysseae",
+															"type": "tribe"
+														},
+														"Alyssopsideae": {
+															"name": "Alyssopsideae",
+															"type": "tribe"
+														},
+														"Anastaticeae": {
+															"name": "Anastaticeae",
+															"type": "tribe"
+														},
+														"Anchonieae": {
+															"name": "Anchonieae",
+															"type": "tribe"
+														},
+														"Aphragmeae": {
+															"name": "Aphragmeae",
+															"type": "tribe"
+														},
+														"Arabideae": {
+															"name": "Arabideae",
+															"type": "tribe"
+														},
+														"Asteae": {
+															"name": "Asteae",
+															"type": "tribe"
+														},
+														"Biscutelleae": {
+															"name": "Biscutelleae",
+															"type": "tribe"
+														},
+														"Bivonaeeae": {
+															"name": "Bivonaeeae",
+															"type": "tribe"
+														},
+														"Boechereae": {
+															"name": "Boechereae",
+															"type": "tribe"
+														},
+														"Brassiceae": {
+															"name": "Brassiceae",
+															"type": "tribe"
+														},
+														"Buniadeae": {
+															"name": "Buniadeae",
+															"type": "tribe"
+														},
+														"Calepineae": {
+															"name": "Calepineae",
+															"type": "tribe"
+														},
+														"Camelineae": {
+															"name": "Camelineae",
+															"type": "tribe"
+														},
+														"Cardamineae": {
+															"name": "Cardamineae",
+															"type": "tribe"
+														},
+														"Chorisporeae": {
+															"name": "Chorisporeae",
+															"type": "tribe"
+														},
+														"Cochlearieae": {
+															"name": "Cochlearieae",
+															"type": "tribe"
+														},
+														"Coluteocarpeae": {
+															"name": "Coluteocarpeae",
+															"type": "tribe"
+														},
+														"Conringieae": {
+															"name": "Conringieae",
+															"type": "tribe"
+														},
+														"Cremolobeae": {
+															"name": "Cremolobeae",
+															"type": "tribe"
+														},
+														"Crucihimalayeae": {
+															"name": "Crucihimalayeae",
+															"type": "tribe"
+														},
+														"Descurainieae": {
+															"name": "Descurainieae",
+															"type": "tribe"
+														},
+														"Dontostemoneae": {
+															"name": "Dontostemoneae",
+															"type": "tribe"
+														},
+														"Erysimeae": {
+															"name": "Erysimeae",
+															"type": "tribe"
+														},
+														"Euclidieae": {
+															"name": "Euclidieae",
+															"type": "tribe"
+														},
+														"Eudemeae": {
+															"name": "Eudemeae",
+															"type": "tribe"
+														},
+														"Eutremeae": {
+															"name": "Eutremeae",
+															"type": "tribe"
+														},
+														"Halimolobeae": {
+															"name": "Halimolobeae",
+															"type": "tribe"
+														},
+														"Heliophileae": {
+															"name": "Heliophileae",
+															"type": "tribe"
+														},
+														"Hesperideae": {
+															"name": "Hesperideae",
+															"type": "tribe"
+														},
+														"Hillielleae": {
+															"name": "Hillielleae",
+															"type": "tribe"
+														},
+														"Iberideae": {
+															"name": "Iberideae",
+															"type": "tribe"
+														},
+														"Isatideae": {
+															"name": "Isatideae",
+															"type": "tribe"
+														},
+														"Kernereae": {
+															"name": "Kernereae",
+															"type": "tribe"
+														},
+														"Lepidieae": {
+															"name": "Lepidieae",
+															"type": "tribe"
+														},
+														"Malcolmieae": {
+															"name": "Malcolmieae",
+															"type": "tribe"
+														},
+														"Megacarpaeeae": {
+															"name": "Megacarpaeeae",
+															"type": "tribe"
+														},
+														"Microlepidieae": {
+															"name": "Microlepidieae",
+															"type": "tribe"
+														},
+														"Notothlaspideae": {
+															"name": "Notothlaspideae",
+															"type": "tribe"
+														},
+														"Oreophytoneae": {
+															"name": "Oreophytoneae",
+															"type": "tribe"
+														},
+														"Physarieae": {
+															"name": "Physarieae",
+															"type": "tribe"
+														},
+														"Schizopetaleae": {
+															"name": "Schizopetaleae",
+															"type": "tribe"
+														},
+														"Scoliaxoneae": {
+															"name": "Scoliaxoneae",
+															"type": "tribe"
+														},
+														"Sisymbrieae": {
+															"name": "Sisymbrieae",
+															"type": "tribe"
+														},
+														"Smelowskieae": {
+															"name": "Smelowskieae",
+															"type": "tribe"
+														},
+														"Stevenieae": {
+															"name": "Stevenieae",
+															"type": "tribe"
+														},
+														"Thelypodieae": {
+															"name": "Thelypodieae",
+															"type": "tribe"
+														},
+														"Thlaspideae": {
+															"name": "Thlaspideae",
+															"type": "tribe"
+														},
+														"Turritideae": {
+															"name": "Turritideae",
+															"type": "tribe"
+														},
+														"Yinshanieae": {
+															"name": "Yinshanieae",
+															"type": "tribe"
+														}
+													}
 												},
 												"Capparaceae": {
 													"name": "Capparaceae",
