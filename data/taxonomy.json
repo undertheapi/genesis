@@ -9158,6 +9158,46 @@
 												}
 											}
 										},
+										"Buxales": {
+											"name": "Buxales",
+											"type": "order",
+											"families": {
+												"Buxaceae": {
+													"name": "Buxaceae",
+													"type": "family",
+													"tribes": {
+														"Buxeae": {
+															"name": "Buxeae",
+															"type": "tribe",
+															"genera": {
+																"Buxus": {
+																	"name": "Buxus",
+																	"type": "genus"
+																}
+															}
+														},
+														"Stylocerateae": {
+															"name": "Stylocerateae",
+															"type": "tribe",
+															"genera": {
+																"Pachysandra": {
+																	"name": "Pachysandra",
+																	"type": "genus"
+																},
+																"Sarcococca": {
+																	"name": "Sarcococca",
+																	"type": "genus"
+																},
+																"Styloceras": {
+																	"name": "Styloceras",
+																	"type": "genus"
+																}
+															}
+														}
+													}
+												}
+											}
+										},
 										"Rosales": {
 											"name": "Rosales",
 											"type": "order",
