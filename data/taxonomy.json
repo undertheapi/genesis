@@ -1348,11 +1348,829 @@
 			"classes": {
 				"Haplomitriopsida": {
 					"name": "Haplomitriopsida",
-					"type": "class"
+					"type": "class",
+					"subclasses": {
+						"Haplomitriidae": {
+							"name": "Haplomitriidae",
+							"type": "subclass",
+							"orders": {
+								"Calobryales": {
+									"name": "Calobryales",
+									"type": "order",
+									"families": {
+										"Haplomitriaceae": {
+											"name": "Haplomitriaceae",
+											"type": "family",
+											"genera": {
+												"Haplomitrium": {
+													"name": "Haplomitrium",
+													"type": "genus"
+												}
+											}
+										}
+									}
+								}
+							}
+						},
+						"Treubiidae": {
+							"name": "Treubiidae",
+							"type": "subclass",
+							"orders": {
+								"Treubiales": {
+									"name": "Treubiales",
+									"type": "order",
+									"families": {
+										"Treubiaceae": {
+											"name": "Treubiaceae",
+											"type": "family",
+											"genera": {
+												"Apotreubia": {
+													"name": "Apotreubia",
+													"type": "genus"
+												},
+												"Treubia": {
+													"name": "Treubia",
+													"type": "genus"
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
 				},
 				"Jungermanniopsida": {
 					"name": "Jungermanniopsida",
-					"type": "class"
+					"type": "class",
+					"subclasses": {
+						"Jungermanniidae": {
+							"name": "Jungermanniidae",
+							"type": "subclass",
+							"orders": {
+								"Jungermanniales": {
+									"name": "Jungermanniales",
+									"type": "order",
+									"suborders": {
+										"Cephaloziineae": {
+											"name": "Cephaloziineae",
+											"type": "suborder",
+											"families": {
+												"Adelanthaceae": {
+													"name": "Adelanthaceae",
+													"type": "family",
+													"genera": {
+														"Adelanthus": {
+															"name": "Adelanthus",
+															"type": "genus"
+														},
+														"Cuspidatula": {
+															"name": "Cuspidatula",
+															"type": "genus"
+														},
+														"Denotarisia": {
+															"name": "Denotarisia",
+															"type": "genus"
+														},
+														"Nothostrepta": {
+															"name": "Nothostrepta",
+															"type": "genus"
+														},
+														"Pisanoa": {
+															"name": "Pisanoa",
+															"type": "genus"
+														},
+														"Protosyzygiella": {
+															"name": "Protosyzygiella",
+															"type": "genus"
+														},
+														"Pseudomarsupidium": {
+															"name": "Pseudomarsupidium",
+															"type": "genus"
+														},
+														"Syzygiella": {
+															"name": "Syzygiella",
+															"type": "genus"
+														},
+														"Vanaea": {
+															"name": "Vanaea",
+															"type": "genus"
+														},
+														"Wettsteinia": {
+															"name": "Wettsteinia",
+															"type": "genus"
+														}
+													}
+												},
+												"Anastrophyllaceae": {
+													"name": "Anastrophyllaceae",
+													"type": "family",
+													"genera": {
+														"Anastrepta": {
+															"name": "Anastrepta",
+															"type": "genus"
+														},
+														"Anastrophyllum": {
+															"name": "Anastrophyllum",
+															"type": "genus"
+														},
+														"Barbilophozia": {
+															"name": "Barbilophozia",
+															"type": "genus"
+														},
+														"Biantheridion": {
+															"name": "Biantheridion",
+															"type": "genus"
+														},
+														"Chandonanthus": {
+															"name": "Chandonanthus",
+															"type": "genus"
+														},
+														"Crossocalyx": {
+															"name": "Crossocalyx",
+															"type": "genus"
+														},
+														"Gymnocolea": {
+															"name": "Gymnocolea",
+															"type": "genus"
+														},
+														"Hamatostrepta": {
+															"name": "Hamatostrepta",
+															"type": "genus"
+														},
+														"Hattoria": {
+															"name": "Hattoria",
+															"type": "genus"
+														},
+														"Isopaches": {
+															"name": "Isopaches",
+															"type": "genus"
+														},
+														"Neoorthocaulis": {
+															"name": "Neoorthocaulis",
+															"type": "genus"
+														},
+														"Orthocaulis": {
+															"name": "Orthocaulis",
+															"type": "genus"
+														},
+														"Plicanthus": {
+															"name": "Plicanthus",
+															"type": "genus"
+														},
+														"Rivulariella": {
+															"name": "Rivulariella",
+															"type": "genus"
+														},
+														"Schizophyllopsis": {
+															"name": "Schizophyllopsis",
+															"type": "genus"
+														},
+														"Schljakovia": {
+															"name": "Schljakovia",
+															"type": "genus"
+														},
+														"Schljakovianthus": {
+															"name": "Schljakovianthus",
+															"type": "genus"
+														},
+														"Sphenolobopsis": {
+															"name": "Sphenolobopsis",
+															"type": "genus"
+														},
+														"Sphenolobus": {
+															"name": "Sphenolobus",
+															"type": "genus"
+														},
+														"Tetralophozia": {
+															"name": "Tetralophozia",
+															"type": "genus"
+														},
+														"Zantenia": {
+															"name": "Zantenia",
+															"type": "genus"
+														}
+													}
+												},
+												"Cephaloziaceae": {
+													"name": "Cephaloziaceae",
+													"type": "family",
+													"genera": {
+														"Alobiella": {
+															"name": "Alobiella",
+															"type": "genus"
+														},
+														"Alobiellopsis": {
+															"name": "Alobiellopsis",
+															"type": "genus"
+														},
+														"Cephalozia": {
+															"name": "Cephalozia",
+															"type": "genus"
+														},
+														"Fuscocephaloziopsis": {
+															"name": "Fuscocephaloziopsis",
+															"type": "genus"
+														},
+														"Haesselia": {
+															"name": "Haesselia",
+															"type": "genus"
+														},
+														"Nowellia": {
+															"name": "Nowellia",
+															"type": "genus"
+														},
+														"Odontoschisma": {
+															"name": "Odontoschisma",
+															"type": "genus"
+														},
+														"Schiffneria": {
+															"name": "Schiffneria",
+															"type": "genus"
+														},
+														"Trabacellula": {
+															"name": "Trabacellula",
+															"type": "genus"
+														}
+													}
+												},
+												"Cephaloziellaceae": {
+													"name": "Cephaloziellaceae",
+													"type": "family",
+													"genera": {
+														"Allisoniella": {
+															"name": "Allisoniella",
+															"type": "genus"
+														},
+														"Amphicephalozia": {
+															"name": "Amphicephalozia",
+															"type": "genus"
+														},
+														"Anastrophyllopsis": {
+															"name": "Anastrophyllopsis",
+															"type": "genus"
+														},
+														"Cephalojonesia": {
+															"name": "Cephalojonesia",
+															"type": "genus"
+														},
+														"Cephalomitrion": {
+															"name": "Cephalomitrion",
+															"type": "genus"
+														},
+														"Cephaloziella": {
+															"name": "Cephaloziella",
+															"type": "genus"
+														},
+														"Cephaloziopsis": {
+															"name": "Cephaloziopsis",
+															"type": "genus"
+														},
+														"Chaetophyllopsis": {
+															"name": "Chaetophyllopsis",
+															"type": "genus"
+														},
+														"Cylindrocolea": {
+															"name": "Cylindrocolea",
+															"type": "genus"
+														},
+														"Gottschelia": {
+															"name": "Gottschelia",
+															"type": "genus"
+														},
+														"Gymnocoleopsis": {
+															"name": "Gymnocoleopsis",
+															"type": "genus"
+														},
+														"Herzogobryum": {
+															"name": "Herzogobryum",
+															"type": "genus"
+														},
+														"Kymatocalyx": {
+															"name": "Kymatocalyx",
+															"type": "genus"
+														},
+														"Lophonardia": {
+															"name": "Lophonardia",
+															"type": "genus"
+														},
+														"Nothogymnomitrion": {
+															"name": "Nothogymnomitrion",
+															"type": "genus"
+														},
+														"Obtusifolium": {
+															"name": "Obtusifolium",
+															"type": "genus"
+														},
+														"Oleolophozia": {
+															"name": "Oleolophozia",
+															"type": "genus"
+														},
+														"Phycolepidozia": {
+															"name": "Phycolepidozia",
+															"type": "genus"
+														},
+														"Protolophozia": {
+															"name": "Protolophozia",
+															"type": "genus"
+														}
+													}
+												},
+												"Lophoziaceae": {
+													"name": "Lophoziaceae",
+													"type": "family",
+													"genera": {
+														"Andrewsianthus": {
+															"name": "Andrewsianthus",
+															"type": "genus"
+														},
+														"Gerhildiella": {
+															"name": "Gerhildiella",
+															"type": "genus"
+														},
+														"Heterogemma": {
+															"name": "Heterogemma",
+															"type": "genus"
+														},
+														"Lophozia": {
+															"name": "Lophozia",
+															"type": "genus"
+														},
+														"Lophoziopsis": {
+															"name": "Lophoziopsis",
+															"type": "genus"
+														},
+														"Pseudocephaloziella": {
+															"name": "Pseudocephaloziella",
+															"type": "genus"
+														},
+														"Trilophozia": {
+															"name": "Trilophozia",
+															"type": "genus"
+														},
+														"Tritomaria": {
+															"name": "Tritomaria",
+															"type": "genus"
+														}
+													}
+												},
+												"Scapaniaceae": {
+													"name": "Scapaniaceae",
+													"type": "family",
+													"genera": {
+														"Diplophyllum": {
+															"name": "Diplophyllum",
+															"type": "genus"
+														},
+														"Douinia": {
+															"name": "Douinia",
+															"type": "genus"
+														},
+														"Pseudotritomaria": {
+															"name": "Pseudotritomaria",
+															"type": "genus"
+														},
+														"Saccobasis": {
+															"name": "Saccobasis",
+															"type": "genus"
+														},
+														"Scapania": {
+															"name": "Scapania",
+															"type": "genus"
+														},
+														"Schistochilopsis": {
+															"name": "Schistochilopsis",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
+										"Jungermanniineae": {
+											"name": "Jungermanniineae",
+											"type": "suborder",
+											"families": {
+												"Acrobolbaceae": {
+													"name": "Acrobolbaceae",
+													"type": "family",
+													"genera": {
+														"Acrobolbus": {
+															"name": "Acrobolbus",
+															"type": "genus"
+														},
+														"Austrolophozia": {
+															"name": "Austrolophozia",
+															"type": "genus"
+														},
+														"Enigmella": {
+															"name": "Enigmella",
+															"type": "genus"
+														},
+														"Goebelobryum": {
+															"name": "Goebelobryum",
+															"type": "genus"
+														},
+														"Lethocolea": {
+															"name": "Lethocolea",
+															"type": "genus"
+														},
+														"Saccogynidium": {
+															"name": "Saccogynidium",
+															"type": "genus"
+														}
+													}
+												},
+												"Antheliaceae": {
+													"name": "Antheliaceae",
+													"type": "family",
+													"genera": {
+														"Anthelia": {
+															"name": "Anthelia",
+															"type": "genus"
+														}
+													}
+												},
+												"Arnelliaceae": {
+													"name": "Arnelliaceae",
+													"type": "family",
+													"genera": {
+														"Arnellia": {
+															"name": "Arnellia",
+															"type": "genus"
+														}
+													}
+												},
+												"Balantiopsidaceae": {
+													"name": "Balantiopsidaceae",
+													"type": "family",
+													"genera": {
+														"Acroscyphella": {
+															"name": "Acroscyphella",
+															"type": "genus"
+														},
+														"Balantiopsis": {
+															"name": "Balantiopsis",
+															"type": "genus"
+														},
+														"Isotachis": {
+															"name": "Isotachis",
+															"type": "genus"
+														},
+														"Neesioscyphus": {
+															"name": "Neesioscyphus",
+															"type": "genus"
+														},
+														"Pseudisotachis": {
+															"name": "Pseudisotachis",
+															"type": "genus"
+														},
+														"Ruizanthus": {
+															"name": "Ruizanthus",
+															"type": "genus"
+														}
+													}
+												},
+												"Blepharidophyllaceae": {
+													"name": "Blepharidophyllaceae",
+													"type": "family",
+													"genera": {
+														"Blepharidophyllum": {
+															"name": "Blepharidophyllum",
+															"type": "genus"
+														},
+														"Clandarium": {
+															"name": "Clandarium",
+															"type": "genus"
+														}
+													}
+												},
+												"Calypogeiaceae": {
+													"name": "Calypogeiaceae",
+													"type": "family",
+													"genera": {
+														"Calypogeia": {
+															"name": "Calypogeia",
+															"type": "genus"
+														},
+														"Eocalypogeia": {
+															"name": "Eocalypogeia",
+															"type": "genus"
+														},
+														"Metacalypogeia": {
+															"name": "Metacalypogeia",
+															"type": "genus"
+														},
+														"Mizutania": {
+															"name": "Mizutania",
+															"type": "genus"
+														},
+														"Mnioloma": {
+															"name": "Mnioloma",
+															"type": "genus"
+														}
+													}
+												},
+												"Endogemmataceae": {
+													"name": "Endogemmataceae",
+													"type": "family",
+													"genera": {
+														"Endogemma": {
+															"name": "Endogemma",
+															"type": "genus"
+														}
+													}
+												},
+												"Geocalycaceae": {
+													"name": "Geocalycaceae",
+													"type": "family",
+													"genera": {
+														"Geocalyx": {
+															"name": "Geocalyx",
+															"type": "genus"
+														}
+													}
+												},
+												"Gymnomitriaceae": {
+													"name": "Gymnomitriaceae",
+													"type": "family",
+													"genera": {
+														"Acrolophozia": {
+															"name": "Acrolophozia",
+															"type": "genus"
+														},
+														"Cryptocoleopsis": {
+															"name": "Cryptocoleopsis",
+															"type": "genus"
+														},
+														"Gymnomitrion": {
+															"name": "Gymnomitrion",
+															"type": "genus"
+														},
+														"Marsupella": {
+															"name": "Marsupella",
+															"type": "genus"
+														},
+														"Nanomarsupella": {
+															"name": "Nanomarsupella",
+															"type": "genus"
+														},
+														"Nardia": {
+															"name": "Nardia",
+															"type": "genus"
+														},
+														"Paramomitrion": {
+															"name": "Paramomitrion",
+															"type": "genus"
+														},
+														"Poeltia": {
+															"name": "Poeltia",
+															"type": "genus"
+														},
+														"Prasanthus": {
+															"name": "Prasanthus",
+															"type": "genus"
+														}
+													}
+												},
+												"Gyrothyraceae": {
+													"name": "Gyrothyraceae",
+													"type": "family",
+													"genera": {
+														"Gyrothyra": {
+															"name": "Gyrothyra",
+															"type": "genus"
+														}
+													}
+												},
+												"Harpanthaceae": {
+													"name": "Harpanthaceae",
+													"type": "family",
+													"genera": {
+														"Harpanthus": {
+															"name": "Harpanthus",
+															"type": "genus"
+														}
+													}
+												},
+												"Hygrobiellaceae": {
+													"name": "Hygrobiellaceae",
+													"type": "family",
+													"genera": {
+														"Hygrobiella": {
+															"name": "Hygrobiella",
+															"type": "genus"
+														}
+													}
+												},
+												"Jackiellaceae": {
+													"name": "Jackiellaceae",
+													"type": "family",
+													"genera": {
+														"Jackiella": {
+															"name": "Jackiella",
+															"type": "genus"
+														}
+													}
+												},
+												"Jungermanniaceae": {
+													"name": "Jungermanniaceae",
+													"type": "family",
+													"genera": {
+														"Delavayella": {
+															"name": "Delavayella",
+															"type": "genus"
+														},
+														"Eremonotus": {
+															"name": "Eremonotus",
+															"type": "genus"
+														},
+														"Jungermannia": {
+															"name": "Jungermannia",
+															"type": "genus"
+														},
+														"Licholaena": {
+															"name": "Licholaena",
+															"type": "genus"
+														},
+														"Mesoptychia": {
+															"name": "Mesoptychia",
+															"type": "genus"
+														},
+														"Xenochila": {
+															"name": "Xenochila",
+															"type": "genus"
+														}
+													}
+												},
+												"Notoscyphaceae": {
+													"name": "Notoscyphaceae",
+													"type": "family",
+													"genera": {
+														"Notoscyphus": {
+															"name": "Notoscyphus",
+															"type": "genus"
+														}
+													}
+												},
+												"Saccogynaceae": {
+													"name": "Saccogynaceae",
+													"type": "family",
+													"genera": {
+														"Saccogyna": {
+															"name": "Saccogyna",
+															"type": "genus"
+														}
+													}
+												},
+												"Solenostomataceae": {
+													"name": "Solenostomataceae",
+													"type": "family",
+													"genera": {
+														"Aponardia": {
+															"name": "Aponardia",
+															"type": "genus"
+														},
+														"Arctoscyphus": {
+															"name": "Arctoscyphus",
+															"type": "genus"
+														},
+														"Cryptocolea": {
+															"name": "Cryptocolea",
+															"type": "genus"
+														},
+														"Diplocolea": {
+															"name": "Diplocolea",
+															"type": "genus"
+														},
+														"Solenostoma": {
+															"name": "Solenostoma",
+															"type": "genus"
+														}
+													}
+												},
+												"Southbyaceae": {
+													"name": "Southbyaceae",
+													"type": "family",
+													"genera": {
+														"Gongylanthus": {
+															"name": "Gongylanthus",
+															"type": "genus"
+														},
+														"Southbya": {
+															"name": "Southbya",
+															"type": "genus"
+														}
+													}
+												},
+												"Stephaniellaceae": {
+													"name": "Stephaniellaceae",
+													"type": "family",
+													"genera": {
+														"Stephaniella": {
+															"name": "Stephaniella",
+															"type": "genus"
+														},
+														"Stephaniellidium": {
+															"name": "Stephaniellidium",
+															"type": "genus"
+														}
+													}
+												},
+												"Trichotemnomataceae": {
+													"name": "Trichotemnomataceae",
+													"type": "family",
+													"genera": {
+														"Trichotemnoma": {
+															"name": "Trichotemnoma",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
+										"Lophocoleineae": {
+											"name": "Lophocoleineae",
+											"type": "suborder",
+											"family": {
+												"Blepharostomataceae": {
+													"name": "Blepharostomataceae",
+													"type": "family"
+												},
+												"Brevianthaceae": {
+													"name": "Brevianthaceae",
+													"type": "family"
+												},
+												"Chonecoleaceae": {
+													"name": "Chonecoleaceae",
+													"type": "family"
+												},
+												"Grolleaceae": {
+													"name": "Grolleaceae",
+													"type": "family"
+												},
+												"Herbertaceae": {
+													"name": "Herbertaceae",
+													"type": "family"
+												},
+												"Lepicoleaceae": {
+													"name": "Lepicoleaceae",
+													"type": "family"
+												},
+												"Lepidoziaceae": {
+													"name": "Lepidoziaceae",
+													"type": "family"
+												},
+												"Lophocoleaceae": {
+													"name": "Lophocoleaceae",
+													"type": "family"
+												},
+												"Mastigophoraceae": {
+													"name": "Mastigophoraceae",
+													"type": "family"
+												},
+												"Plagiochilaceae": {
+													"name": "Plagiochilaceae",
+													"type": "family"
+												},
+												"Pseudolepicoleaceae": {
+													"name": "Pseudolepicoleaceae",
+													"type": "family"
+												},
+												"Trichocoleaceae": {
+													"name": "Trichocoleaceae",
+													"type": "family"
+												}
+											}
+										},
+										"Myliineae": {
+											"name": "Myliineae",
+											"type": "suborder"
+										},
+										"Perssoniellineae": {
+											"name": "Perssoniellineae",
+											"type": "suborder"
+										}
+									}
+								},
+								"Porellales": {
+									"name": "Porellales",
+									"type": "order"
+								},
+								"Ptilidiales": {
+									"name": "Ptilidiales",
+									"type": "order"
+								}
+							}
+						},
+						"Metzgeriidae": {
+							"name": "Metzgeriidae",
+							"type": "subclass"
+						},
+						"Pelliidae": {
+							"name": "Pelliidae",
+							"type": "subclass"
+						}
+					}
 				},
 				"Marchantiopsida": {
 					"name": "Marchantiopsida",
