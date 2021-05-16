@@ -1742,7 +1742,520 @@
 						"Gymnosperms": {
 							"note": "Non-Flowering Producing",
 							"name": "Gymnosperms",
-							"type": "division"
+							"type": "division",
+							"classes": {
+								"Cycadopsida": {
+									"name": "Cycadopsida",
+									"type": "class",
+									"orders": {
+										"Cycadales": {
+											"name": "Cycadales",
+											"type": "order",
+											"suborders": {
+												"Cycadineae": {
+													"name": "Cycadineae",
+													"type": "suborder",
+													"families": {
+														"Cycadaceae": {
+															"name": "Cycadaceae",
+															"type": "family",
+															"genera": {
+																"Cycas": {
+																	"name": "Cycas",
+																	"type": "genus"
+																}
+															}
+														}
+													}
+												},
+												"Zamiineae": {
+													"name": "Zamiineae",
+													"type": "suborder",
+													"families": {
+														"Stangeriaceae": {
+															"name": "Stangeriaceae",
+															"type": "family",
+															"subfamilies": {
+																"Bowenioideae": {
+																	"name": "Bowenioideae",
+																	"type": "subfamily",
+																	"genera": {
+																		"Bowenia": {
+																			"name": "Bowenia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Stangerioideae": {
+																	"name": "Stangerioideae",
+																	"type": "subfamily",
+																	"genera": {
+																		"Stangeria": {
+																			"name": "Stangeria",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
+														},
+														"Zamiaceae": {
+															"note": "The Zamiaceae subfamilies are debated.",
+															"name": "Zamiaceae",
+															"type": "family"
+														}
+													}
+												}
+											}
+										}
+									}
+								},
+								"Ginkgoopsida": {
+									"name": "Ginkgoopsida",
+									"type": "class",
+									"orders": {
+										"Ginkgoales": {
+											"name": "Ginkgoales",
+											"type": "order",
+											"families": {
+												"Ginkgoaceae": {
+													"name": "Ginkgoaceae",
+													"type": "family",
+													"genera": {
+														"Ginkgo": {
+															"name": "Ginkgo",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										}
+									}
+								},
+								"Gnetopsida": {
+									"name": "Gnetopsida",
+									"type": "class",
+									"order": {
+										"Gnetales": {
+											"name": "Gnetales",
+											"type": "order",
+											"families": {
+												"Ephedraceae": {
+													"name": "Ephedraceae",
+													"type": "family",
+													"genera": {
+														"Ephedra": {
+															"name": "Ephedra",
+															"type": "genus"
+														}
+													}
+												},
+												"Gnetaceae": {
+													"name": "Glyptostrobus",
+													"type": "family",
+													"genera": {
+														"Gnetum": {
+															"name": "Gnetum",
+															"type": "genus"
+														}
+													}
+												},
+												"Welwitschiaceae": {
+													"name": "Welwitschiaceae",
+													"type": "family",
+													"genera": {
+														"Welwitschia": {
+															"name": "Welwitschia",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										}
+									}
+								},
+								"Pinopsida": {
+									"name": "Pinopsida",
+									"type": "class",
+									"orders": {
+										"Pinales": {
+											"name": "Pinales",
+											"type": "order",
+											"families": {
+												"Araucariaceae": {
+													"name": "Araucariaceae",
+													"type": "family",
+													"genera": {
+														"Agathis": {
+															"name": "Agathis",
+															"type": "genus"
+														},
+														"Araucaria": {
+															"name": "Araucaria",
+															"type": "genus"
+														},
+														"Wollemia": {
+															"name": "Wollemia",
+															"type": "genus"
+														}
+													}
+												},
+												"Cupressaceae": {
+													"name": "Cupressaceae",
+													"type": "family",
+													"subfamilies": {
+														"Athrotaxidoideae": {
+															"name": "Athrotaxidoideae",
+															"type": "subfamily",
+															"genera": {
+																"Athrotaxis": {
+																	"name": "Athrotaxis",
+																	"type": "genus"
+																}
+															}
+														},
+														"Callitroideae": {
+															"name": "Callitroideae",
+															"type": "subfamily",
+															"genera": {
+																"Actinostrobus": {
+																	"name": "Actinostrobus",
+																	"type": "genus"
+																},
+																"Austrocedrus": {
+																	"name": "Austrocedrus",
+																	"type": "genus"
+																},
+																"Callitris": {
+																	"name": "Callitris",
+																	"type": "genus"
+																},
+																"Diselma": {
+																	"name": "Diselma",
+																	"type": "genus"
+																},
+																"Fitzroya": {
+																	"name": "Fitzroya",
+																	"type": "genus"
+																},
+																"Libocedrus": {
+																	"name": "Libocedrus",
+																	"type": "genus"
+																},
+																"Neocallitropsis": {
+																	"name": "Neocallitropsis",
+																	"type": "genus"
+																},
+																"Papuacedrus": {
+																	"name": "Papuacedrus",
+																	"type": "genus"
+																},
+																"Pilgerodendron": {
+																	"name": "Pilgerodendron",
+																	"type": "genus"
+																},
+																"Widdringtonia": {
+																	"name": "Widdringtonia",
+																	"type": "genus"
+																}
+															}
+														},
+														"Cunninghamioideae": {
+															"name": "Cunninghamioideae",
+															"type": "subfamily",
+															"genera": {
+																"Cunninghamia": {
+																	"name": "Cunninghamia",
+																	"type": "genus"
+																}
+															}
+														},
+														"Cupressoideae": {
+															"name": "Cupressoideae",
+															"type": "subfamily",
+															"genera": {
+																"Callitropsis": {
+																	"name": "Callitropsis",
+																	"type": "genus"
+																},
+																"Calocedrus": {
+																	"name": "Calocedrus",
+																	"type": "genus"
+																},
+																"Chamaecyparis": {
+																	"name": "Chamaecyparis",
+																	"type": "genus"
+																},
+																"Cupressus": {
+																	"name": "Cupressus",
+																	"type": "genus"
+																},
+																"Fokienia": {
+																	"name": "Fokienia",
+																	"type": "genus"
+																},
+																"Juniperus": {
+																	"name": "Juniperus",
+																	"type": "genus"
+																},
+																"Hesperocyparis": {
+																	"name": "Hesperocyparis",
+																	"type": "genus"
+																},
+																"Microbiota": {
+																	"name": "Microbiota",
+																	"type": "genus"
+																},
+																"Platycladus": {
+																	"name": "Platycladus",
+																	"type": "genus"
+																},
+																"Tetraclinis": {
+																	"name": "Tetraclinis",
+																	"type": "genus"
+																},
+																"Thuja": {
+																	"name": "Thuja",
+																	"type": "genus"
+																},
+																"Thujopsis": {
+																	"name": "Thujopsis",
+																	"type": "genus"
+																},
+																"Xanthocyparis": {
+																	"name": "Xanthocyparis",
+																	"type": "genus"
+																}
+															}
+														},
+														"Sequoioideae": {
+															"name": "Sequoioideae",
+															"type": "subfamily",
+															"genera": {
+																"Metasequoia": {
+																	"name": "Metasequoia",
+																	"type": "genus"
+																},
+																"Sequoia": {
+																	"name": "Sequoia",
+																	"type": "genus"
+																},
+																"Sequoiadendron": {
+																	"name": "Sequoiadendron",
+																	"type": "genus"
+																}
+															}
+														},
+														"Taiwanioideae": {
+															"name": "Taiwanioideae",
+															"type": "subfamily",
+															"genera": {
+																"Taiwania": {
+																	"name": "Taiwania",
+																	"type": "genus"
+																}
+															}
+														},
+														"Taxodioideae": {
+															"name": "Taxodioideae",
+															"type": "subfamily",
+															"genera": {
+																"Cryptomeria": {
+																	"name": "Cryptomeria",
+																	"type": "genus"
+																},
+																"Glyptostrobus": {
+																	"name": "Glyptostrobus",
+																	"type": "genus"
+																},
+																"Taxodium": {
+																	"name": "Taxodium",
+																	"type": "genus"
+																}
+															}
+														}
+													}
+												},
+												"Pinaceae": {
+													"name": "Pinaceae",
+													"type": "family",
+													"genera": {
+														"Abies": {
+															"name": "Abies",
+															"type": "genus"
+														},
+														"Cathaya": {
+															"name": "Cathaya",
+															"type": "genus"
+														},
+														"Cedrus": {
+															"name": "Cedrus",
+															"type": "genus"
+														},
+														"Keteleeria": {
+															"name": "Keteleeria",
+															"type": "genus"
+														},
+														"Larix": {
+															"name": "Larix",
+															"type": "genus"
+														},
+														"Nothotsuga": {
+															"name": "Nothotsuga",
+															"type": "genus"
+														},
+														"Picea": {
+															"name": "Picea",
+															"type": "genus"
+														},
+														"Pinus": {
+															"name": "Pinus",
+															"type": "genus"
+														},
+														"Pseudolarix": {
+															"name": "Pseudolarix",
+															"type": "genus"
+														},
+														"Pseudotsuga": {
+															"name": "Pseudotsuga",
+															"type": "genus"
+														},
+														"Tsuga": {
+															"name": "Tsuga",
+															"type": "genus"
+														}
+													}
+												},
+												"Podocarpaceae": {
+													"name": "Podocarpaceae",
+													"type": "family",
+													"genera": {
+														"Acmopyle": {
+															"name": "Acmopyle",
+															"type": "genus"
+														},
+														"Afrocarpus": {
+															"name": "Afrocarpus",
+															"type": "genus"
+														},
+														"Dacrycarpus": {
+															"name": "Dacrycarpus",
+															"type": "genus"
+														},
+														"Dacrydium": {
+															"name": "Dacrydium",
+															"type": "genus"
+														},
+														"Falcatifolium": {
+															"name": "Falcatifolium",
+															"type": "genus"
+														},
+														"Halocarpus": {
+															"name": "Halocarpus",
+															"type": "genus"
+														},
+														"Lagarostrobos": {
+															"name": "Lagarostrobos",
+															"type": "genus"
+														},
+														"Lepidothamnus": {
+															"name": "Lepidothamnus",
+															"type": "genus"
+														},
+														"Manoao": {
+															"name": "Manoao",
+															"type": "genus"
+														},
+														"Microcachrys": {
+															"name": "Microcachrys",
+															"type": "genus"
+														},
+														"Nageia": {
+															"name": "Nageia",
+															"type": "genus"
+														},
+														"Parasitaxus": {
+															"name": "Parasitaxus",
+															"type": "genus"
+														},
+														"Pectinopitys": {
+															"name": "Pectinopitys",
+															"type": "genus"
+														},
+														"Pherosphaera": {
+															"name": "Pherosphaera",
+															"type": "genus"
+														},
+														"Phyllocladus": {
+															"name": "Phyllocladus",
+															"type": "genus"
+														},
+														"Podocarpus": {
+															"name": "Podocarpus",
+															"type": "genus"
+														},
+														"Prumnopitys": {
+															"name": "Prumnopitys",
+															"type": "genus"
+														},
+														"Retrophyllum": {
+															"name": "Retrophyllum",
+															"type": "genus"
+														},
+														"Saxegothaea": {
+															"name": "Saxegothaea",
+															"type": "genus"
+														},
+														"Sundacarpus": {
+															"name": "Sundacarpus",
+															"type": "genus"
+														}
+													}
+												},
+												"Sciadopityaceae": {
+													"name": "Sciadopityaceae",
+													"type": "family",
+													"genera": {
+														"Sciadopitys": {
+															"name": "Sciadopitys",
+															"type": "genus"
+														}
+													}
+												},
+												"Taxaceae": {
+													"name": "Taxaceae",
+													"type": "family",
+													"genera": {
+														"Amentotaxus": {
+															"name": "Amentotaxus",
+															"type": "genus"
+														},
+														"Austrotaxus": {
+															"name": "Austrotaxus",
+															"type": "genus"
+														},
+														"Cephalotaxus": {
+															"name": "Cephalotaxus",
+															"type": "genus"
+														},
+														"Pseudotaxus": {
+															"name": "Pseudotaxus",
+															"type": "genus"
+														},
+														"Taxus": {
+															"name": "Taxus",
+															"type": "genus"
+														},
+														"Torreya": {
+															"name": "Torreya",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
 						},
 						"Angiosperms": {
 							"note": "Flowering Producing",
