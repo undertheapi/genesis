@@ -13218,6 +13218,268 @@
 												}
 											}
 										},
+										"Dipsacales": {
+											"families": {
+												"Adoxaceae": {
+													"name": "Adoxaceae",
+													"type": "family",
+													"genera": {
+														"Adoxa": {
+															"name": "Adoxa",
+															"type": "genus"
+														},
+														"Oreinotinus": {
+															"name": "Oreinotinus",
+															"type": "genus"
+														},
+														"Sambucus": {
+															"name": "Sambucus",
+															"type": "genus"
+														},
+														"Sinadoxa": {
+															"name": "Sinadoxa",
+															"type": "genus"
+														},
+														"Tetradoxa": {
+															"name": "Tetradoxa",
+															"type": "genus"
+														},
+														"Viburnum": {
+															"name": "Viburnum",
+															"type": "genus"
+														}
+													}
+												},
+												"Caprifoliaceae": {
+													"name": "Caprifoliaceae",
+													"type": "family",
+													"subfamilies": {
+														"Caprifolioideae": {
+															"name": "Caprifolioideae",
+															"type": "subfamily",
+															"genera": {
+																"Heptacodium": {
+																	"name": "Heptacodium",
+																	"type": "genus"
+																},
+																"Leycesteria": {
+																	"name": "Leycesteria",
+																	"type": "genus"
+																},
+																"Lonicera": {
+																	"name": "Lonicera",
+																	"type": "genus"
+																},
+																"Symphoricarpos": {
+																	"name": "Symphoricarpos",
+																	"type": "genus"
+																},
+																"Triosteum": {
+																	"name": "Triosteum",
+																	"type": "genus"
+																}
+															}
+														},
+														"Diervilloideae": {
+															"name": "Diervilloideae",
+															"type": "subfamily",
+															"genera": {
+																"Diervilla": {
+																	"name": "Diervilla",
+																	"type": "genus"
+																},
+																"Weigela": {
+																	"name": "Weigela",
+																	"type": "genus"
+																}
+															}
+														},
+														"Dipsacoideae": {
+															"name": "Dipsacoideae",
+															"type": "subfamily",
+															"tribes": {
+																"Bassecoieae": {
+																	"name": "Bassecoieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Bassecoia": {
+																			"name": "Bassecoia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Dipsaceae": {
+																	"name": "Dipsaceae",
+																	"type": "tribe",
+																	"genera": {
+																		"Cephalaria": {
+																			"name": "Cephalaria",
+																			"type": "genus"
+																		},
+																		"Dipsacus": {
+																			"name": "Dipsacus",
+																			"type": "genus"
+																		},
+																		"Simenia": {
+																			"name": "Simenia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Knautieae": {
+																	"name": "Knautieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Knautia": {
+																			"name": "Knautia",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Pseudoscabioseae": {
+																	"name": "Pseudoscabioseae",
+																	"type": "tribe",
+																	"genera": {
+																		"Pseudoscabiosa": {
+																			"name": "Pseudoscabiosa",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Pterocephalidieae": {
+																	"name": "Pterocephalidieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Pterocephalidium": {
+																			"name": "Pterocephalidium",
+																			"type": "genus"
+																		},
+																		"Pterothamnus": {
+																			"name": "Pterothamnus",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Succiseae": {
+																	"name": "Succiseae",
+																	"type": "tribe",
+																	"genera": {
+																		"Succisa": {
+																			"name": "Succisa",
+																			"type": "genus"
+																		},
+																		"Succisella": {
+																			"name": "Succisella",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
+														},
+														"Linnaeoideae": {
+															"name": "Linnaeoideae",
+															"type": "subfamily",
+															"genera": {
+																"Abelia": {
+																	"name": "Abelia",
+																	"type": "genus"
+																},
+																"Diabelia": {
+																	"name": "Diabelia",
+																	"type": "genus"
+																},
+																"Dipelta": {
+																	"name": "Dipelta",
+																	"type": "genus"
+																},
+																"Kolkwitzia": {
+																	"name": "Kolkwitzia",
+																	"type": "genus"
+																},
+																"Linnaea": {
+																	"name": "Linnaea",
+																	"type": "genus"
+																},
+																"Vesalea": {
+																	"name": "Vesalea",
+																	"type": "genus"
+																}
+															}
+														},
+														"Morinoideae": {
+															"name": "Morinoideae",
+															"type": "subfamily",
+															"genera": {
+																"Acanthocalyx": {
+																	"name": "Acanthocalyx",
+																	"type": "genus"
+																},
+																"Morina": {
+																	"name": "Morina",
+																	"type": "genus"
+																}
+															}
+														},
+														"Scabiosoideae": {
+															"name": "Scabiosoideae",
+															"type": "subfamily",
+															"tribes": {
+																"Lomelosieae": {
+																	"name": "Lomelosieae",
+																	"type": "tribe",
+																	"genera": {
+																		"Lomelosia": {
+																			"name": "Lomelosia",
+																			"type": "genus",
+																			"sections": {
+																				"Callistemma": {
+																					"name": "Callistemma",
+																					"type": "section"
+																				},
+																				"Lomelosia": {
+																					"name": "Lomelosia",
+																					"type": "section"
+																				},
+																				"Olivierianae": {
+																					"name": "Olivierianae",
+																					"type": "section"
+																				}
+																			}
+																		},
+																		"Pycnocomon": {
+																			"name": "Pycnocomon",
+																			"type": "genus"
+																		}
+																	}
+																},
+																"Scabioseae": {
+																	"name": "Scabioseae",
+																	"type": "tribe",
+																	"genera": {
+																		"Pterocephalus": {
+																			"name": "Pterocephalus",
+																			"type": "genus"
+																		},
+																		"Scabiosa": {
+																			"name": "Scabiosa",
+																			"type": "genus"
+																		},
+																		"Sixalix": {
+																			"name": "Sixalix",
+																			"type": "genus"
+																		}
+																	}
+																}
+															}
+														},
+														"Valerianoideae": {
+															"name": "Valerianoideae",
+															"type": "subfamily"
+														}
+													}
+												}
+											}
+										},
 										"Rosales": {
 											"name": "Rosales",
 											"type": "order",
