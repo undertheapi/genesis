@@ -24996,7 +24996,61 @@
 																},
 																"Panicoideae": {
 																	"name": "Panicoideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Andropogoneae": {
+																			"name": "Andropogoneae",
+																			"type": "tribe"
+																		},
+																		"Arundinelleae": {
+																			"name": "Arundinelleae",
+																			"type": "tribe"
+																		},
+																		"Centotheceae": {
+																			"name": "Centotheceae",
+																			"type": "tribe"
+																		},
+																		"Chasmanthieae": {
+																			"name": "Chasmanthieae",
+																			"type": "tribe"
+																		},
+																		"Cyperochloeae": {
+																			"name": "Cyperochloeae",
+																			"type": "tribe"
+																		},
+																		"Gynerieae": {
+																			"name": "Gynerieae",
+																			"type": "tribe"
+																		},
+																		"Lecomtelleae": {
+																			"name": "Lecomtelleae",
+																			"type": "tribe"
+																		},
+																		"Paniceae": {
+																			"name": "Paniceae",
+																			"type": "tribe"
+																		},
+																		"Paspaleae": {
+																			"name": "Paspaleae",
+																			"type": "tribe"
+																		},
+																		"Steyermarkochloeae": {
+																			"name": "Steyermarkochloeae",
+																			"type": "tribe"
+																		},
+																		"Thysanolaeneae": {
+																			"name": "Thysanolaeneae",
+																			"type": "tribe"
+																		},
+																		"Tristachyideae": {
+																			"name": "Tristachyideae",
+																			"type": "tribe"
+																		},
+																		"Zeugiteae": {
+																			"name": "Zeugiteae",
+																			"type": "tribe"
+																		}
+																	}
 																},
 																"Pharoideae": {
 																	"name": "Pharoideae",
