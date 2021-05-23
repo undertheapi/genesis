@@ -19457,27 +19457,267 @@
 											"families": {
 												"Annonaceae": {
 													"name": "Annonaceae",
-													"type": "family"
+													"type": "family",
+													"subfamilies": {
+														"Ambavioideae": {
+															"name": "Ambavioideae",
+															"type": "subfamily",
+															"genera": {
+																"Ambavia": {
+																	"name": "Ambavia",
+																	"type": "genus"
+																},
+																"Cananga": {
+																	"name": "Cananga",
+																	"type": "genus"
+																},
+																"Cleistopholis": {
+																	"name": "Cleistopholis",
+																	"type": "genus"
+																},
+																"Cyathocalyx": {
+																	"name": "Cyathocalyx",
+																	"type": "genus"
+																},
+																"Drepananthus": {
+																	"name": "Drepananthus",
+																	"type": "genus"
+																},
+																"Lettowianthus": {
+																	"name": "Lettowianthus",
+																	"type": "genus"
+																},
+																"Meiocarpidium": {
+																	"name": "Meiocarpidium",
+																	"type": "genus"
+																},
+																"Mezzettia": {
+																	"name": "Mezzettia",
+																	"type": "genus"
+																},
+																"Tetrameranthus": {
+																	"name": "Tetrameranthus",
+																	"type": "genus"
+																}
+															}
+														},
+														"Anaxagoreoideae": {
+															"name": "Anaxagoreoideae",
+															"type": "subfamily",
+															"genera": {
+																"Anaxagorea": {
+																	"name": "Anaxagorea",
+																	"type": "genus"
+																}
+															}
+														},
+														"Annonoideae": {
+															"name": "Annonoideae",
+															"type": "subfamily",
+															"tribes": {
+																"Annoneae": {
+																	"name": "Annoneae",
+																	"type": "tribe"
+																},
+																"Bocageeae": {
+																	"name": "Bocageeae",
+																	"type": "tribe"
+																},
+																"Duguetieae": {
+																	"name": "Duguetieae",
+																	"type": "tribe"
+																},
+																"Guatterieae": {
+																	"name": "Guatterieae",
+																	"type": "tribe"
+																},
+																"Monodoreae": {
+																	"name": "Monodoreae",
+																	"type": "tribe"
+																},
+																"Uvarieae": {
+																	"name": "Uvarieae",
+																	"type": "tribe"
+																},
+																"Xylopieae": {
+																	"name": "Xylopieae",
+																	"type": "tribe"
+																}
+															}
+														},
+														"Malmeoideae": {
+															"name": "Malmeoideae",
+															"type": "subfamily",
+															"tribes": {
+																"Dendrokingstonieae": {
+																	"name": "Dendrokingstonieae",
+																	"type": "tribe"
+																},
+																"Fenerivieae": {
+																	"name": "Fenerivieae",
+																	"type": "tribe"
+																},
+																"Maasieae": {
+																	"name": "Maasieae",
+																	"type": "tribe"
+																},
+																"Malmeeae": {
+																	"name": "Malmeeae",
+																	"type": "tribe"
+																},
+																"Miliuseae": {
+																	"name": "Miliuseae",
+																	"type": "tribe"
+																},
+																"Monocarpieae": {
+																	"name": "Monocarpieae",
+																	"type": "tribe"
+																},
+																"Phoenicantheae": {
+																	"name": "Phoenicantheae",
+																	"type": "tribe"
+																},
+																"Piptostigmateae": {
+																	"name": "Piptostigmateae",
+																	"type": "tribe"
+																}
+															}
+														}
+													}
 												},
 												"Degeneriaceae": {
 													"name": "Degeneriaceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Degeneria": { 
+															"name": "Degeneria",
+															"type": "genus"
+														}
+													}
 												},
 												"Eupomatiaceae": {
 													"name": "Eupomatiaceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Eupomatia": { 
+															"name": "Eupomatia",
+															"type": "genus"
+														}
+													}
 												},
 												"Himantandraceae": {
 													"name": "Himantandraceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Galbulimima": { 
+															"name": "Galbulimima",
+															"type": "genus"
+														}
+													}
 												},
 												"Magnoliaceae": {
 													"name": "Magnoliaceae",
-													"type": "family"
+													"type": "family",
+													"subfamilies": {
+														"Liriodendroidae": {
+															"name": "Liriodendroidae",
+															"type": "subfamily"
+														},
+														"Magnolioideae": {
+															"name": "Magnolioideae",
+															"type": "subfamily"
+														}
+													}
 												},
 												"Myristicaceae": {
 													"name": "Myristicaceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Bicuiba": {
+															"name": "Bicuiba",
+															"type": "genus"
+														},
+														"Brochoneura": {
+															"name": "Brochoneura",
+															"type": "genus"
+														},
+														"Cephalosphaera": {
+															"name": "Cephalosphaera",
+															"type": "genus"
+														},
+														"Coelocaryon": {
+															"name": "Coelocaryon",
+															"type": "genus"
+														},
+														"Compsoneura": {
+															"name": "Compsoneura",
+															"type": "genus"
+														},
+														"Doyleanthus": {
+															"name": "Doyleanthus",
+															"type": "genus"
+														},
+														"Endocomia": {
+															"name": "Endocomia",
+															"type": "genus"
+														},
+														"Gymnacranthera": {
+															"name": "Gymnacranthera",
+															"type": "genus"
+														},
+														"Haematodendron": {
+															"name": "Haematodendron",
+															"type": "genus"
+														},
+														"Horsfieldia": {
+															"name": "Horsfieldia",
+															"type": "genus"
+														},
+														"Iryanthera": {
+															"name": "Iryanthera",
+															"type": "genus"
+														},
+														"Knema": {
+															"name": "Knema",
+															"type": "genus"
+														},
+														"Mauloutchia": {
+															"name": "Mauloutchia",
+															"type": "genus"
+														},
+														"Myristica": {
+															"name": "Myristica",
+															"type": "genus"
+														},
+														"Osteophloeum": {
+															"name": "Osteophloeum",
+															"type": "genus"
+														},
+														"Otoba": {
+															"name": "Otoba",
+															"type": "genus"
+														},
+														"Paramyristica": {
+															"name": "Paramyristica",
+															"type": "genus"
+														},
+														"Pycnanthus": {
+															"name": "Pycnanthus",
+															"type": "genus"
+														},
+														"Scyphocephalium": {
+															"name": "Scyphocephalium",
+															"type": "genus"
+														},
+														"Staudtia": {
+															"name": "Staudtia",
+															"type": "genus"
+														},
+														"Virola": {
+															"name": "Virola",
+															"type": "genus"
+														}
+													}
 												}
 											}
 										},
@@ -19487,15 +19727,95 @@
 											"families": {
 												"Aristolochiaceae": {
 													"name": "Aristolochiaceae",
-													"type": "family"
+													"type": "family",
+													"subfamilies": {
+														"Aristolochioideae": {
+															"name": "Aristolochioideae",
+															"type": "subfamily",
+															"genera": {
+																"Aristolochia": {
+																	"name": Aristolochia",
+																	"type": "genus"
+																},
+																"Thottea": {
+																	"name": "Thottea",
+																	"type": "genus"
+																}
+															}
+														},
+														"Asaroideae": {
+															"name": "Asaroideae",
+															"type": "subfamily",
+															"subfamilies": {
+																"Asarum": {
+																	"name": "Asarum",
+																	"type": "genus"
+																},
+																"Hexastylis": {
+																	"name": "Hexastylis",
+																	"type": "genus"
+																},
+																"Saruma": {
+																	"name": "Saruma",
+																	"type": "genus"
+																}
+															}
+														},
+														"Hydnoroideae": {
+															"name": "Hydnoroideae",
+															"type": "subfamily",
+															"genera": {
+																"Hydnora": {
+																	"name": "Hydnora",
+																	"type": "genus"
+																},
+																"Prosopanche": {
+																	"name": "Prosopanche",
+																	"type": "genus"
+																}
+															}
+														}
+													}
 												},
 												"Piperaceae": {
 													"name": "Piperaceae",
-													"type": "family"
+													"type": "family",
+													"subfamilies": {
+														"Piperoideae": {
+															"name": "Piperoideae",
+															"type": "subfamily"
+														},
+														"Verhuellioideae": {
+															"name": "Verhuellioideae",
+															"type": "subfamily"
+														},
+														"Zippelioideae": {
+															"name": "Zippelioideae",
+															"type": "subfamily"
+														}
+													}
 												},
 												"Saururaceae": {
 													"name": "Saururaceae",
-													"type": "family"
+													"type": "family",
+													"genera": {
+														"Anemopsis": {
+															"name": "Anemopsis",
+															"type": "genus"
+														},
+														"Gymnotheca": {
+															"name": "Gymnotheca",
+															"type": "genus"
+														},
+														"Houttuynia": {
+															"name": "Houttuynia",
+															"type": "genus"
+														},
+														"Saururus": {
+															"name": "Saururus",
+															"type": "genus"
+														}
+													}
 												}
 											}
 										}
