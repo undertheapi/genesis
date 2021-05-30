@@ -19097,6 +19097,212 @@
 												}
 											}
 										},
+										"Fagales": {
+											"name": "Fagles",
+											"type": "order",
+											"families": {
+												"Betulaceae": {
+													"name": "Betulaceae",
+													"type": "family",
+													"genera": {
+														"Alnus": {
+															"name": "Alnus",
+															"type": "genus"
+														},
+														"Betula": {
+															"name": "Betula",
+															"type": "genus"
+														},
+														"Carpinus": {
+															"name": "Carpinus",
+															"type": "genus"
+														},
+														"Corylus": {
+															"name": "Corylus",
+															"type": "genus"
+														},
+														"Ostrya": {
+															"name": "Ostrya",
+															"type": "genus"
+														},
+														"Ostryopsis": {
+															"name": "Ostryopsis",
+															"type": "genus"
+														}
+													}
+												},
+												"Casuarinaceae": {
+													"name": "Casuarinaceae",
+													"type": "family",
+													"genera": {
+														"Allocasuarina": {
+															"name": "Allocasuarina",
+															"type": "genus"
+														},
+														"Casuarina": {
+															"name": "Casuarina",
+															"type": "genus"
+														},
+														"Ceuthostoma": {
+															"name": "Ceuthostoma",
+															"type": "genus"
+														},
+														"Gymnostoma": {
+															"name": "Gymnostoma",
+															"type": "genus"
+														}
+													}
+												},
+												"Fagaceae": {
+													"name": "Fagaceae",
+													"type": "family",
+													"genera": {
+														"Castanea": {
+															"name": "Castanea",
+															"type": "genus"
+														},
+														"Castanopsis": {
+															"name": "Castanopsis",
+															"type": "genus"
+														},
+														"Chrysolepis": {
+															"name": "Chrysolepis",
+															"type": "genus"
+														},
+														"Fagus": {
+															"name": "Fagus",
+															"type": "genus"
+														},
+														"Lithocarpus": {
+															"name": "Lithocarpus",
+															"type": "genus"
+														},
+														"Notholithocarpus": {
+															"name": "Notholithocarpus",
+															"type": "genus"
+														},
+														"Quercus": {
+															"name": "Quercus",
+															"type": "genus"
+														},
+														"Trigonobalanus": {
+															"name": "Trigonobalanus",
+															"type": "genus"
+														}
+													}
+												},
+												"Juglandaceae": {
+													"name": "Juglandaceae",
+													"type": "family",
+													"genera": {
+														"Alfaroa": {
+															"name": "Alfaroa",
+															"type": "genus"
+														},
+														"Alfaropsis": {
+															"name": "Alfaropsis",
+															"type": "genus"
+														},
+														"Carya": {
+															"name": "Carya",
+															"type": "genus"
+														},
+														"Cyclocarya": {
+															"name": "Cyclocarya",
+															"type": "genus"
+														},
+														"Engelhardia": {
+															"name": "Engelhardia",
+															"type": "genus"
+														},
+														"Juglans": {
+															"name": "Juglans",
+															"type": "genus"
+														},
+														"Oreomunnea": {
+															"name": "Oreomunnea",
+															"type": "genus"
+														},
+														"Platycarya": {
+															"name": "Platycarya",
+															"type": "genus"
+														},
+														"Pterocarya": {
+															"name": "Pterocarya",
+															"type": "genus"
+														},
+														"Rhoiptelea": {
+															"name": "Rhoiptelea",
+															"type": "genus"
+														}
+													}
+												},
+												"Myricaceae": {
+													"name": "Myricaceae",
+													"type": "family",
+													"genera": {
+														"Canacomyrica": {
+															"name": "Canacomyrica",
+															"type": "genus"
+														},
+														"Comptonia": {
+															"name": "Comptonia",
+															"type": "genus"
+														},
+														"Morella": {
+															"name": "Morella",
+															"type": "genus"
+														},
+														"Myrica": {
+															"name": "Myrica",
+															"type": "genus"
+														}
+													}
+												},
+												"Nothofagaceae": {
+													"name": "Nothofagaceae",
+													"type": "family",
+													"genera": {
+														"Fuscospora": {
+															"name": "Fuscospora",
+															"type": "genus"
+														},
+														"Lophozonia": {
+															"name": "Lophozonia",
+															"type": "genus"
+														},
+														"Nothofagus": {
+															"name": "Nothofagus",
+															"type": "genus"
+														},
+														"Trisyngyne": {
+															"name": "Trisyngyne",
+															"type": "genus"
+														}
+													}
+												},
+												"Rhoipteleaceae": {
+													"name": "Rhoipteleaceae",
+													"type": "family",
+													"genera": {
+														"Rhoiptelea": {
+															"name": "Rhoiptelea",
+															"type": "genus"
+														}
+													}
+												},
+												"Ticodendraceae": {
+													"name": "Ticodendraceae",
+													"type": "family",
+													"genera": {
+														"Ticodendron": {
+															"name": "Ticodendron",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
 										"Rosales": {
 											"name": "Rosales",
 											"type": "order",
