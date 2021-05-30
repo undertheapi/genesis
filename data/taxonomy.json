@@ -19306,6 +19306,36 @@
 												}
 											}
 										},
+										"Garryales": {
+											"name": "Garryales",
+											"type": "order",
+											"families": {
+												"Eucommiaceae": {
+													"name": "Eucommiaceae",
+													"type": "family",
+													"genera": {
+														"Eucommia": {
+															"name": "Eucommia",
+															"type": "genus"
+														}
+													}
+												},
+												"Garryaceae": {
+													"name": "Garryaceae",
+													"type": "family",
+													"genera": {
+														"Aucuba": {
+															"name": "Aucuba",
+															"type": "genus"
+														},
+														"Garrya": {
+															"name": "Garrya",
+															"type": "genus"
+														}
+													}
+												}
+											}
+										},
 										"Rosales": {
 											"name": "Rosales",
 											"type": "order",
