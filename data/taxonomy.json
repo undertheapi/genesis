@@ -3,6 +3,7 @@
 	"type": "regnum",
 	"divisions": {
 		"Charophyta": {
+			"notes": "green algae (e.g. desmids & stoneworts)",
 			"name": "Charophyta",
 			"type": "division",
 			"classes": {
@@ -441,6 +442,7 @@
 			}
 		},
 		"Chlorophyta": {
+			"notes": "green algae (chlorophytes)",
 			"name": "Chlorophyta",
 			"type": "division"
 		},
@@ -19734,7 +19736,7 @@
 															"type": "subfamily",
 															"genera": {
 																"Aristolochia": {
-																	"name": Aristolochia",
+																	"name": "Aristolochia",
 																	"type": "genus"
 																},
 																"Thottea": {
