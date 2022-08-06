@@ -9350,15 +9350,49 @@
 																	"subtribes": {
 																		"Galeaninae": {
 																			"name": "Galeaninae",
-																			"type": "subtribe"
+																			"type": "subtribe",
+																			"genera": {
+																				"Galeana": {
+																					"name": "Galeana",
+																					"type": "genus"
+																				},
+																				"Villanova": {
+																					"name": "Villanova",
+																					"type": "genus"
+																				}
+																			}
 																		},
 																		"Lycapsinae": {
 																			"name": "Lycapsinae",
-																			"type": "subtribe"
+																			"type": "subtribe",
+																			"genera": {
+																				"Lycapsus": {
+																					"name": "Lycapsus",
+																					"type": "genus"
+																				}
+																			}
 																		},
 																		"Peritylinae": {
 																			"name": "Peritylinae",
-																			"type": "subtribe"
+																			"type": "subtribe",
+																			"genera": {
+																				"Amauria": {
+																					"name": "Amauria",
+																					"type": "genus"
+																				},
+																				"Eutetras": {
+																					"name": "Eutetras",
+																					"type": "genus"
+																				},
+																				"Pericome": {
+																					"name": "Pericome",
+																					"type": "genus"
+																				},
+																				"Perityle": {
+																					"name": "Perityle",
+																					"type": "genus"
+																				}
+																			}
 																		}
 																	}
 																},
