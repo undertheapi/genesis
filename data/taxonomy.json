@@ -34483,11 +34483,111 @@
 															"subfamilies": {
 																"Cyperoideae": {
 																	"name": "Cyperoideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"genera": {
+																		"Abildgaardieae": {
+																			"name": "Abildgaardieae",
+																			"type": "tribe"
+																		},
+																		"Bisboeckelereae": {
+																			"name": "Bisboeckelereae",
+																			"type": "tribe"
+																		},
+																		"Bolboschoeneae": {
+																			"name": "Bolboschoeneae",
+																			"type": "tribe"
+																		},
+																		"Calliscirpeae": {
+																			"name": "Calliscirpeae",
+																			"type": "tribe"
+																		},
+																		"Cariceae": {
+																			"name": "Cariceae",
+																			"type": "tribe"
+																		},
+																		"Carpheae": {
+																			"name": "Carpheae",
+																			"type": "tribe"
+																		},
+																		"Cladieae": {
+																			"name": "Cladieae",
+																			"type": "tribe"
+																		},
+																		"Cryptangieae": {
+																			"name": "Cryptangieae",
+																			"type": "tribe"
+																		},
+																		"Cypereae": {
+																			"name": "Cypereae",
+																			"type": "tribe"
+																		},
+																		"Dulichieae": {
+																			"name": "Dulichieae",
+																			"type": "tribe"
+																		},
+																		"Eleocharideae": {
+																			"name": "Eleocharideae",
+																			"type": "tribe"
+																		},
+																		"Fuireneae": {
+																			"name": "Fuireneae",
+																			"type": "tribe"
+																		},
+																		"Khaosokieae": {
+																			"name": "Khaosokieae",
+																			"type": "tribe"
+																		},
+																		"Pseudoschoeneae": {
+																			"name": "Pseudoschoeneae",
+																			"type": "tribe"
+																		},
+																		"Rhynchosporeae": {
+																			"name": "Rhynchosporeae",
+																			"type": "tribe"
+																		},
+																		"Schoeneae": {
+																			"name": "Schoeneae",
+																			"type": "tribe"
+																		},
+																		"Schoenoplecteae": {
+																			"name": "Schoenoplecteae",
+																			"type": "tribe"
+																		},
+																		"Scirpeae": {
+																			"name": "Scirpeae",
+																			"type": "tribe"
+																		},
+																		"Sclerieae": {
+																			"name": "Sclerieae",
+																			"type": "tribe"
+																		},
+																		"Sumatroscirpeae": {
+																			"name": "Sumatroscirpeae",
+																			"type": "tribe"
+																		},
+																		"Trichophoreae": {
+																			"name": "Trichophoreae",
+																			"type": "tribe"
+																		},
+																		"Trilepideae": {
+																			"name": "Trilepideae",
+																			"type": "tribe"
+																		}
+																	}
 																},
 																"Mapanioideae": {
 																	"name": "Mapanioideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Chrysitricheae": {
+																			"name": "Chrysitricheae",
+																			"type": "tribe"
+																		},
+																		"Hypolytreae": {
+																			"name": "Hypolytreae",
+																			"type": "tribe"
+																		}
+																	}
 																}
 															}
 														},
