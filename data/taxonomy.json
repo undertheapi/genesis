@@ -24880,14 +24880,14 @@
 																	"type": "genus"
 																},
 																"Xymalos": {
-																	"name": "Xymalos","
-																	"type": "genus
+																	"name": "Xymalos",
+																	"type": "genus"
 																}
 															}
 														},
 														"Monimioideae": {
 															"name": "Monimioideae",
-															"type": "subfamily"
+															"type": "subfamily",
 															"genera": {
 																"Monimia": {
 																	"name": "Monimia",
@@ -24898,8 +24898,8 @@
 																	"type": "genus"
 																},
 																"Peumus": {
-																	"name": "Peumus","
-																	"type": "genus
+																	"name": "Peumus",
+																	"type": "genus"
 																}
 															}
 														}
