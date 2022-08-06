@@ -37896,19 +37896,303 @@
 															"subfamilies": {
 																"Alpinioideae": {
 																	"name": "Alpinioideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Alpinieae": {
+																			"name": "Alpinieae",
+																			"type": "tribe",
+																			"genera": {
+																				"Adelmeria": {
+																					"name": "Adelmeria",
+																					"type": "genus"
+																				},
+																				"Aframomum": {
+																					"name": "Aframomum",
+																					"type": "genus"
+																				},
+																				"Alpinia": {
+																					"name": "Alpinia",
+																					"type": "genus"
+																				},
+																				"Amomum": {
+																					"name": "Amomum",
+																					"type": "genus"
+																				},
+																				"Aulotandra": {
+																					"name": "Aulotandra",
+																					"type": "genus"
+																				},
+																				"Conamomum": {
+																					"name": "Conamomum",
+																					"type": "genus"
+																				},
+																				"Cyphostigma": {
+																					"name": "Cyphostigma",
+																					"type": "genus"
+																				},
+																				"Elettaria": {
+																					"name": "Elettaria",
+																					"type": "genus"
+																				},
+																				"Elettariopsis": {
+																					"name": "Elettariopsis",
+																					"type": "genus"
+																				},
+																				"Epiamomum": {
+																					"name": "Epiamomum",
+																					"type": "genus"
+																				},
+																				"Etlingera": {
+																					"name": "Etlingera",
+																					"type": "genus"
+																				},
+																				"Geocharis": {
+																					"name": "Geocharis",
+																					"type": "genus"
+																				},
+																				"Geostachys": {
+																					"name": "Geostachys",
+																					"type": "genus"
+																				},
+																				"Hornstedtia": {
+																					"name": "Hornstedtia",
+																					"type": "genus"
+																				},
+																				"Lanxangia": {
+																					"name": "Lanxangia",
+																					"type": "genus"
+																				},
+																				"Leptosolena": {
+																					"name": "Leptosolena",
+																					"type": "genus"
+																				},
+																				"Meistera": {
+																					"name": "Meistera",
+																					"type": "genus"
+																				},
+																				"Plagiostachys": {
+																					"name": "Plagiostachys",
+																					"type": "genus"
+																				},
+																				"Renealmia": {
+																					"name": "Renealmia",
+																					"type": "genus"
+																				},
+																				"Siliquamomum": {
+																					"name": "Siliquamomum",
+																					"type": "genus"
+																				},
+																				"Sulettaria": {
+																					"name": "Sulettaria",
+																					"type": "genus"
+																				},
+																				"Sundamomum": {
+																					"name": "Sundamomum",
+																					"type": "genus"
+																				},
+																				"Vanoverberghia": {
+																					"name": "Vanoverberghia",
+																					"type": "genus"
+																				},
+																				"Wurfbainia": {
+																					"name": "Wurfbainia",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Riedelieae": {
+																			"name": "Riedelieae",
+																			"type": "tribe",
+																			"genera": {
+																				"Burbidgea": {
+																					"name": "Burbidgea",
+																					"type": "genus"
+																				},
+																				"Pleuranthodium": {
+																					"name": "Pleuranthodium",
+																					"type": "genus"
+																				},
+																				"Riedelia": {
+																					"name": "Riedelia",
+																					"type": "genus"
+																				},
+																				"Siamanthus": {
+																					"name": "Siamanthus",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
 																},
 																"Siphonochiloideae": {
 																	"name": "Siphonochiloideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Siphonochileae": {
+																			"name": "Siphonochileae",
+																			"type": "tribe",
+																			"genera": {
+																				"Siphonochilus": {
+																					"name": "Siphonochilus",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
 																},
 																"Tamijioideae": {
 																	"name": "Tamijioideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Tamijieae": {
+																			"name": "Tamijieae",
+																			"type": "tribe",
+																			"genera": {
+																				"Tamijia": {
+																					"name": "Tamijia",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
 																},
 																"Zingiberoideae": {
 																	"name": "Zingiberoideae",
-																	"type": "subfamily"
+																	"type": "subfamily",
+																	"tribes": {
+																		"Globbeae": {
+																			"name": "Globbeae",
+																			"type": "tribe",
+																			"genera": {
+																				"Gagnepainia": {
+																					"name": "Gagnepainia",
+																					"type": "genus"
+																				},
+																				"Globba": {
+																					"name": "Globba",
+																					"type": "genus"
+																				},
+																				"Hemiorchis": {
+																					"name": "Hemiorchis",
+																					"type": "genus"
+																				}
+																			}
+																		},
+																		"Zingibereae": {
+																			"name": "Zingibereae",
+																			"type": "tribe",
+																			"genera": {
+																				"Boesenbergia": {
+																					"name": "Boesenbergia",
+																					"type": "genus"
+																				},
+																				"Camptandra": {
+																					"name": "Camptandra",
+																					"type": "genus"
+																				},
+																				"Caulokaempferia": {
+																					"name": "Caulokaempferia",
+																					"type": "genus"
+																				},
+																				"Cautleya": {
+																					"name": "Cautleya",
+																					"type": "genus"
+																				},
+																				"Cornukaempferia": {
+																					"name": "Cornukaempferia",
+																					"type": "genus"
+																				},
+																				"Curcuma": {
+																					"name": "Curcuma",
+																					"type": "genus"
+																				},
+																				"Curcumorpha": {
+																					"name": "Curcumorpha",
+																					"type": "genus"
+																				},
+																				"Distichochlamys": {
+																					"name": "Distichochlamys",
+																					"type": "genus"
+																				},
+																				"Haniffia": {
+																					"name": "Haniffia",
+																					"type": "genus"
+																				},
+																				"Haplochorema": {
+																					"name": "Haplochorema",
+																					"type": "genus"
+																				},
+																				"Hedychium": {
+																					"name": "Hedychium",
+																					"type": "genus"
+																				},
+																				"Hitchenia": {
+																					"name": "Hitchenia",
+																					"type": "genus"
+																				},
+																				"Kaempferia": {
+																					"name": "Kaempferia",
+																					"type": "genus"
+																				},
+																				"Kedhalia": {
+																					"name": "Kedhalia",
+																					"type": "genus"
+																				},
+																				"Laosanthus": {
+																					"name": "Laosanthus",
+																					"type": "genus"
+																				},
+																				"Myxochlamys": {
+																					"name": "Myxochlamys",
+																					"type": "genus"
+																				},
+																				"Nanochilus": {
+																					"name": "Nanochilus",
+																					"type": "genus"
+																				},
+																				"Newmania": {
+																					"name": "Newmania",
+																					"type": "genus"
+																				},
+																				"Paracautleya": {
+																					"name": "Paracautleya",
+																					"type": "genus"
+																				},
+																				"Parakaempferia": {
+																					"name": "Parakaempferia",
+																					"type": "genus"
+																				},
+																				"Pommereschea": {
+																					"name": "Pommereschea",
+																					"type": "genus"
+																				},
+																				"Rhynchanthus": {
+																					"name": "Rhynchanthus",
+																					"type": "genus"
+																				},
+																				"Roscoea": {
+																					"name": "Roscoea",
+																					"type": "genus"
+																				},
+																				"Scaphochlamys": {
+																					"name": "Scaphochlamys",
+																					"type": "genus"
+																				},
+																				"Stadiochilus": {
+																					"name": "Stadiochilus",
+																					"type": "genus"
+																				},
+																				"Stahlianthus": {
+																					"name": "Stahlianthus",
+																					"type": "genus"
+																				},
+																				"Zingiber": {
+																					"name": "Zingiber",
+																					"type": "genus"
+																				}
+																			}
+																		}
+																	}
 																}
 															}
 														}
