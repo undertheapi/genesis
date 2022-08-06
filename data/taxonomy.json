@@ -25533,11 +25533,103 @@
 													"subfamilies": {
 														"Liriodendroidae": {
 															"name": "Liriodendroidae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"genera": {
+																"Liriodendron": {
+																	"name": "Liriodendron",
+																	"type": "genus"
+																}
+															}
 														},
 														"Magnolioideae": {
 															"name": "Magnolioideae",
-															"type": "subfamily"
+															"type": "subfamily",
+															"genera": {
+																"Magnolia": {
+																	"name": "Magnolia",
+																	"type": "genus",
+																	"subgenera": {
+																		"Magnolia": {
+																			"name": "Magnolia",
+																			"type": "subgenus"
+																			"sections": {
+																				"Splendentes": {
+																					"name": "Splendentes",
+																					"type": "section"
+																				},
+																				"Talauma": {
+																					"name": "Talauma",
+																					"type": "section"
+																				},
+																				"Gwillimia": {
+																					"name": "Gwillimia",
+																					"type": "section"
+																				},
+																				"Tuliparia": {
+																					"name": "Tuliparia",
+																					"type": "section"
+																				},
+																				"Macrophylla": {
+																					"name": "Macrophylla",
+																					"type": "section"
+																				},
+																				"Magnolia": {
+																					"name": "Magnolia",
+																					"type": "section"
+																				},
+																				"Oyama": {
+																					"name": "Oyama",
+																					"type": "section"
+																				},
+																				"Rytidospermum ": {
+																					"name": "Rytidospermum",
+																					"type": "section"
+																				},
+																				"Manglietia": {
+																					"name": "Manglietia",
+																					"type": "section"
+																				},
+																				"Kmeria": {
+																					"name": "Kmeria",
+																					"type": "section"
+																				}
+																			}
+																		},
+																		"Gynopodium": {
+																			"name": "Gynopodium",
+																			"type": "subgenus",
+																			"sections": {
+																				"Gynopodium": {
+																					"name": "Gynopodium",
+																					"type": "section"
+																				}
+																			}
+																		},
+																		"Yuliana": {
+																			"name": "Yuliana",
+																			"type": "subgenus",
+																			"sections": {
+																				"Tulipastrum": {
+																					"name": "Tulipastrum",
+																					"type": "section"
+																				},
+																				"Yuliana": {
+																					"name": "Yuliana",
+																					"type": "section"
+																				},
+																				"Maingola": {
+																					"name": "Maingola",
+																					"type": "section"
+																				},
+																				"Michelia": {
+																					"name": "Michelia",
+																					"type": "section"
+																				}
+																			}
+																		}
+																	}
+																}
+															}
 														}
 													}
 												},
