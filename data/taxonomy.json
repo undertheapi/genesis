@@ -24987,31 +24987,257 @@
 															"tribes": {
 																"Annoneae": {
 																	"name": "Annoneae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Annona": {
+																			"name": "Annona",
+																			"type": "genus"
+																		},
+																		"Anonidium": {
+																			"name": "Anonidium",
+																			"type": "genus"
+																		},
+																		"Asimina": {
+																			"name": "Asimina",
+																			"type": "genus"
+																		},
+																		"Boutiquea": {
+																			"name": "Boutiquea",
+																			"type": "genus"
+																		},
+																		"Deeringothamnus": {
+																			"name": "Deeringothamnus",
+																			"type": "genus"
+																		},
+																		"Diclinanona": {
+																			"name": "Diclinanona",
+																			"type": "genus"
+																		},
+																		"Disepalum": {
+																			"name": "Disepalum",
+																			"type": "genus"
+																		},
+																		"Goniothalamus": {
+																			"name": "Goniothalamus",
+																			"type": "genus"
+																		},
+																		"Neostenanthera": {
+																			"name": "Neostenanthera",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Bocageeae": {
 																	"name": "Bocageeae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Bocagea": {
+																			"name": "Bocagea",
+																			"type": "genus"
+																		},
+																		"Cardiopetalum": {
+																			"name": "Cardiopetalum",
+																			"type": "genus"
+																		},
+																		"Cymbopetalum": {
+																			"name": "Cymbopetalum",
+																			"type": "genus"
+																		},
+																		"Froesiodendron": {
+																			"name": "Froesiodendron",
+																			"type": "genus"
+																		},
+																		"Hornschuchia": {
+																			"name": "Hornschuchia",
+																			"type": "genus"
+																		},
+																		"Mkilua": {
+																			"name": "Mkilua",
+																			"type": "genus"
+																		},
+																		"Porcelia": {
+																			"name": "Porcelia",
+																			"type": "genus"
+																		},
+																		"Trigynaea": {
+																			"name": "Trigynaea",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Duguetieae": {
 																	"name": "Duguetieae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Duckeanthus": {
+																			"name": "Duckeanthus",
+																			"type": "genus"
+																		},
+																		"Duguetia": {
+																			"name": "Duguetia",
+																			"type": "genus"
+																		},
+																		"Fusaea": {
+																			"name": "Fusaea",
+																			"type": "genus"
+																		},
+																		"Letestudoxa": {
+																			"name": "Letestudoxa",
+																			"type": "genus"
+																		},
+																		"Pseudartabotrys": {
+																			"name": "Pseudartabotrys",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Guatterieae": {
 																	"name": "Guatterieae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Guatteria": {
+																			"name": "Guatteria",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Monodoreae": {
 																	"name": "Monodoreae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Asteranthe": {
+																			"name": "Asteranthe",
+																			"type": "genus"
+																		},
+																		"Hexalobus": {
+																			"name": "Hexalobus",
+																			"type": "genus"
+																		},
+																		"Isolona": {
+																			"name": "Isolona",
+																			"type": "genus"
+																		},
+																		"Mischogyne": {
+																			"name": "Mischogyne",
+																			"type": "genus"
+																		},
+																		"Monocyclanthus": {
+																			"name": "Monocyclanthus",
+																			"type": "genus"
+																		},
+																		"Monodora": {
+																			"name": "Monodora",
+																			"type": "genus"
+																		},
+																		"Ophrypetalum": {
+																			"name": "Ophrypetalum",
+																			"type": "genus"
+																		},
+																		"Sanrafaelia": {
+																			"name": "Sanrafaelia",
+																			"type": "genus"
+																		},
+																		"Uvariastrum": {
+																			"name": "Uvariastrum",
+																			"type": "genus"
+																		},
+																		"Uvariodendron": {
+																			"name": "Uvariodendron",
+																			"type": "genus"
+																		},
+																		"Uvariopsis": {
+																			"name": "Uvariopsis",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Uvarieae": {
 																	"name": "Uvarieae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Afroguatteria": {
+																			"name": "Afroguatteria",
+																			"type": "genus"
+																		},
+																		"Cleistochlamys": {
+																			"name": "Cleistochlamys",
+																			"type": "genus"
+																		},
+																		"Dasymaschalon": {
+																			"name": "Dasymaschalon",
+																			"type": "genus"
+																		},
+																		"Desmos": {
+																			"name": "Desmos",
+																			"type": "genus"
+																		},
+																		"Dielsiothamnus": {
+																			"name": "Dielsiothamnus",
+																			"type": "genus"
+																		},
+																		"Exellia": {
+																			"name": "Exellia",
+																			"type": "genus"
+																		},
+																		"Fissistigma": {
+																			"name": "Fissistigma",
+																			"type": "genus"
+																		},
+																		"Friesodielsia": {
+																			"name": "Friesodielsia",
+																			"type": "genus"
+																		},
+																		"Gilbertiella": {
+																			"name": "Gilbertiella",
+																			"type": "genus"
+																		},
+																		"Melodorum": {
+																			"name": "Melodorum",
+																			"type": "genus"
+																		},
+																		"Mitrella": {
+																			"name": "Mitrella",
+																			"type": "genus"
+																		},
+																		"Monanthotaxis": {
+																			"name": "Monanthotaxis",
+																			"type": "genus"
+																		},
+																		"Pyramidanthe": {
+																			"name": "Pyramidanthe",
+																			"type": "genus"
+																		},
+																		"Schefferomitra": {
+																			"name": "Schefferomitra",
+																			"type": "genus"
+																		},
+																		"Sphaerocoryne": {
+																			"name": "Sphaerocoryne",
+																			"type": "genus"
+																		},
+																		"Toussaintia": {
+																			"name": "Toussaintia",
+																			"type": "genus"
+																		},
+																		"Uvaria": {
+																			"name": "Uvaria",
+																			"type": "genus"
+																		}
+																	}
 																},
 																"Xylopieae": {
 																	"name": "Xylopieae",
-																	"type": "tribe"
+																	"type": "tribe",
+																	"genera": {
+																		"Artabotrys": {
+																			"name": "Artabotrys",
+																			"type": "genus"
+																		},
+																		"Xylopia": {
+																			"name": "Xylopia",
+																			"type": "genus"
+																		}
+																	}
 																}
 															}
 														},
