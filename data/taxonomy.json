@@ -6664,7 +6664,21 @@
 																		},
 																		"Athroisminae": {
 																			"name": "Athroisminae",
-																			"type": "subtribe"
+																			"type": "subtribe",
+																			"genera": {
+																				"Athroisma": {
+																					"name": "Athroisma",
+																					"type": "genus"
+																				},
+																				"Blepharispermum": {
+																					"name": "Blepharispermum",
+																					"type": "genus"
+																				},
+																				"Leucoblepharis": {
+																					"name": "Leucoblepharis",
+																					"type": "genus"
+																				}
+																			}
 																		},
 																		"Centipedinae": {
 																			"name": "Centipedinae",
@@ -6672,7 +6686,13 @@
 																		},
 																		"Lowryanthinae": {
 																			"name": "Lowryanthinae",
-																			"type": "subtribe"
+																			"type": "subtribe",
+																			"genera": {
+																				"Lowryanthus": {
+																					"name": "Lowryanthus",
+																					"type": "genus"
+																				}
+																			}
 																		}
 																	}
 																},
