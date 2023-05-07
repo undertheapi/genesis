@@ -32441,7 +32441,61 @@
 																				},
 																				"Cattleya": {
 																					"name": "Cattleya",
-																					"type": "genus"
+																					"type": "genus",
+																					"subgenera" : {
+																					"Cattleya" : {
+																							"name" : "Cattleya",
+																							"type" : "subgenus",
+																							"subsections" : {
+																								"Cattleya" : {
+																									"name" : "Cattleya",
+																									"type" : "subsection"
+																								},
+																								"Crispae" : {
+																									"name" : "Crispae",
+																									"type" : "subsection",
+																									"series" : {
+																										"Cattleyodes" : {
+																											"name" : "Cattleyodes",
+																											"type" : "series"
+																										},
+																										"Hadrolaelia" : {
+																											"name" : "Hadrolaelia",
+																											"type" : "series"
+																										},
+																										"Microlaelia" : {
+																											"name" : "Microlaelia",
+																											"type" : "series"
+																										},
+																										"Parviflorae" : {
+																											"name" : "Parviflorae",
+																											"type" : "series"
+																										},
+																										"Sophronitis" : {
+																											"name" : "Sophronitis",
+																											"type" : "series"
+																										}
+																									}
+																								},
+																								"Lawrenceanae" : {
+																									"name" : "Lawrenceanae",
+																									"type" : "subsection"
+																								}
+																							}
+																						},
+																						"Cattleyella" : {
+																							"name" : "Cattleyella",
+																							"type" : "subgenus"
+																						},
+																						"Intermediae" : {
+																							"name" : "Intermediae",
+																							"type" : "subgenus"
+																						},
+																						"Maximae" : {
+																							"name" : "Maximae",
+																							"type" : "subgenus"
+																						}
+																					}
 																				},
 																				"Caularthron": {
 																					"name": "Caularthron",
